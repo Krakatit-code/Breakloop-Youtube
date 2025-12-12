@@ -3,6 +3,8 @@ YouTubeが同じ動画ばかりおすすめしてくるの嫌だ / Tired of YouT
 
 https://glittering-melba-8e60b5.netlify.app/
 
+![スクリーンショット](https://github.com/user-attachments/assets/75e9232f-74c8-4d57-bbf6-9c93bd0b1ec3)
+
 ## 背景
 YouTubeが同じ動画ばかりおすすめに出してくるのが嫌でした。  
 しかし検索ワードを無から思いついて手入力するのは大変です。  
