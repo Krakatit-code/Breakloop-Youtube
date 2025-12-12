@@ -1,0 +1,8565 @@
+[
+  {
+    "text": "ゲーム ",
+    "children": [
+      {
+        "text": " RPG ",
+        "children": [
+          {
+            "text": "ファイナルファンタジー",
+            "children": []
+          },
+          {
+            "text": "ドラゴンクエスト",
+            "children": []
+          },
+          {
+            "text": "ペルソナ",
+            "children": []
+          },
+          {
+            "text": "原神",
+            "children": []
+          },
+          {
+            "text": "ポケモン",
+            "children": []
+          },
+          {
+            "text": "エルデンリング",
+            "children": []
+          },
+          {
+            "text": "ゼルダの伝説",
+            "children": []
+          },
+          {
+            "text": "キングダムハーツ",
+            "children": []
+          },
+          {
+            "text": "サガシリーズ",
+            "children": []
+          },
+          {
+            "text": "MOTHER",
+            "children": []
+          },
+          {
+            "text": "ファイアーエムブレム",
+            "children": []
+          },
+          {
+            "text": "ゼノギアス",
+            "children": []
+          },
+          {
+            "text": "メタルマックス",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "アクション ",
+        "children": [
+          {
+            "text": " モンスターハンターライズ ",
+            "children": []
+          },
+          {
+            "text": "鬼滅の刃 ヒノカミ血風譚 ",
+            "children": []
+          },
+          {
+            "text": "ベヨネッタ3 ",
+            "children": []
+          },
+          {
+            "text": "Devil May Cry 5 ",
+            "children": []
+          },
+          {
+            "text": "NieR:Automata ",
+            "children": []
+          },
+          {
+            "text": "星のカービィ ディスカバリー ",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "FPS ",
+        "children": [
+          {
+            "text": " Call of Duty: Modern Warfare III ",
+            "children": []
+          },
+          {
+            "text": "Apex Legends ",
+            "children": []
+          },
+          {
+            "text": "Valorant ",
+            "children": []
+          },
+          {
+            "text": "Counter-Strike 2 ",
+            "children": []
+          },
+          {
+            "text": "Overwatch 2 ",
+            "children": []
+          },
+          {
+            "text": "Rainbow Six Siege ",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "TPS ",
+        "children": [
+          {
+            "text": " Fortnite ",
+            "children": []
+          },
+          {
+            "text": "Splatoon 3 ",
+            "children": []
+          },
+          {
+            "text": "PUBG ",
+            "children": []
+          },
+          {
+            "text": "Warframe ",
+            "children": []
+          },
+          {
+            "text": "The Division 2 ",
+            "children": []
+          },
+          {
+            "text": "Gears 5 ",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "シューティング ",
+        "children": [
+          {
+            "text": " グラディウス ",
+            "children": []
+          },
+          {
+            "text": "R-Type Final 2 ",
+            "children": []
+          },
+          {
+            "text": "東方Project",
+            "children": []
+          },
+          {
+            "text": "Cuphead ",
+            "children": []
+          },
+          {
+            "text": "スペースインベーダー ",
+            "children": []
+          },
+          {
+            "text": "Starfield ",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "バトロワ ",
+        "children": [
+          {
+            "text": " Fortnite ",
+            "children": []
+          },
+          {
+            "text": "Apex Legends ",
+            "children": []
+          },
+          {
+            "text": "PUBG ",
+            "children": []
+          },
+          {
+            "text": "Call of Duty: Warzone ",
+            "children": []
+          },
+          {
+            "text": "Free Fire ",
+            "children": []
+          },
+          {
+            "text": "荒野行動 ",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "サンドボックス ",
+        "children": [
+          {
+            "text": " Minecraft ",
+            "children": []
+          },
+          {
+            "text": "Terraria ",
+            "children": []
+          },
+          {
+            "text": "Roblox ",
+            "children": []
+          },
+          {
+            "text": "Palworld ",
+            "children": []
+          },
+          {
+            "text": "Core Keeper ",
+            "children": []
+          },
+          {
+            "text": "Scrap Mechanic ",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "オープンワールド ",
+        "children": [
+          {
+            "text": " 原神 ",
+            "children": []
+          },
+          {
+            "text": "Grand Theft Auto V ",
+            "children": []
+          },
+          {
+            "text": "Minecraft ",
+            "children": []
+          },
+          {
+            "text": "エルデンリング ",
+            "children": []
+          },
+          {
+            "text": "The Witcher 3: Wild Hunt ",
+            "children": []
+          },
+          {
+            "text": "ゼルダの伝説 ブレス オブ ザ ワイルド ",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "アドベンチャー ",
+        "children": [
+          {
+            "text": " ゼルダの伝説 ",
+            "children": []
+          },
+          {
+            "text": "Detroit: Become Human ",
+            "children": []
+          },
+          {
+            "text": "Life is Strange ",
+            "children": []
+          },
+          {
+            "text": "Undertale ",
+            "children": []
+          },
+          {
+            "text": "大逆転裁判 ",
+            "children": []
+          },
+          {
+            "text": "Hollow Knight ",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "ノベル",
+        "children": [
+          {
+            "text": "Fate/stay night",
+            "children": []
+          },
+          {
+            "text": "STEINS;GATE",
+            "children": []
+          },
+          {
+            "text": "月姫",
+            "children": []
+          },
+          {
+            "text": "ひぐらしのなく頃に",
+            "children": []
+          },
+          {
+            "text": "かまいたちの夜",
+            "children": []
+          },
+          {
+            "text": "マブラブ オルタネイティブ",
+            "children": []
+          },
+          {
+            "text": "ダンガンロンパ",
+            "children": []
+          },
+          {
+            "text": "逆転裁判",
+            "children": []
+          },
+          {
+            "text": "グノーシア",
+            "children": []
+          },
+          {
+            "text": "ファタモルガーナの館",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "ホラー ",
+        "children": [
+          {
+            "text": " バイオハザード RE:4 ",
+            "children": []
+          },
+          {
+            "text": "サイレントヒル2 リメイク ",
+            "children": []
+          },
+          {
+            "text": "Dead by Daylight ",
+            "children": []
+          },
+          {
+            "text": "Poppy Playtime ",
+            "children": []
+          },
+          {
+            "text": "Five Nights at Freddy’s ",
+            "children": []
+          },
+          {
+            "text": "Outlast ",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "シミュ ",
+        "children": [
+          {
+            "text": " The Sims 4 ",
+            "children": []
+          },
+          {
+            "text": "Cities: Skylines II ",
+            "children": []
+          },
+          {
+            "text": "Microsoft Flight Simulator ",
+            "children": []
+          },
+          {
+            "text": "Farming Simulator 22 ",
+            "children": []
+          },
+          {
+            "text": "Football Manager 2025 ",
+            "children": []
+          },
+          {
+            "text": "Planet Zoo ",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "MOBA ",
+        "children": [
+          {
+            "text": " League of Legends ",
+            "children": []
+          },
+          {
+            "text": "Dota 2 ",
+            "children": []
+          },
+          {
+            "text": "ポケモンユナイト ",
+            "children": []
+          },
+          {
+            "text": "Smite ",
+            "children": []
+          },
+          {
+            "text": "Arena of Valor ",
+            "children": []
+          },
+          {
+            "text": "Vainglory ",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "パズル ",
+        "children": [
+          {
+            "text": " テトリス ",
+            "children": []
+          },
+          {
+            "text": "ぷよぷよ",
+            "children": []
+          },
+          {
+            "text": "パズドラ",
+            "children": []
+          },
+          {
+            "text": "ツムツム ",
+            "children": []
+          },
+          {
+            "text": "スイカゲーム ",
+            "children": []
+          },
+          {
+            "text": "Monument Valley ",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "放置",
+        "children": [
+          {
+            "text": "放置少女",
+            "children": []
+          },
+          {
+            "text": "Legends of Dragaea: Idle Dungeons",
+            "children": []
+          },
+          {
+            "text": "杖と剣の伝説",
+            "children": []
+          },
+          {
+            "text": "Rusty’s Retirement",
+            "children": []
+          },
+          {
+            "text": "Melvor Idle",
+            "children": []
+          },
+          {
+            "text": "Your Chronicle",
+            "children": []
+          },
+          {
+            "text": "Chillquarium",
+            "children": []
+          },
+          {
+            "text": "FAIRY TAIL 魔導士クロニクル",
+            "children": []
+          },
+          {
+            "text": "月曜が来ないカフェ",
+            "children": []
+          },
+          {
+            "text": "Gnorp Apologue",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "カジュアル ",
+        "children": [
+          {
+            "text": " 放置少女〜百花繚乱の萌姫たち〜 ",
+            "children": []
+          },
+          {
+            "text": "AFKアリーナ ",
+            "children": []
+          },
+          {
+            "text": "メメントモリ ",
+            "children": []
+          },
+          {
+            "text": "Rusty’s Retirement ",
+            "children": []
+          },
+          {
+            "text": "Melvor Idle ",
+            "children": []
+          },
+          {
+            "text": "月曜が来ないカフェ ",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "格闘 ",
+        "children": [
+          {
+            "text": " ストリートファイター",
+            "children": []
+          },
+          {
+            "text": "鉄拳",
+            "children": []
+          },
+          {
+            "text": "スマブラ",
+            "children": []
+          },
+          {
+            "text": "Mortal Kombat 1 ",
+            "children": []
+          },
+          {
+            "text": "Guilty Gear -Strive- ",
+            "children": []
+          },
+          {
+            "text": "King of Fighters XV ",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "レース ",
+        "children": [
+          {
+            "text": " Mario Kart 8 Deluxe ",
+            "children": []
+          },
+          {
+            "text": "Gran Turismo 7 ",
+            "children": []
+          },
+          {
+            "text": "Forza Horizon 5 ",
+            "children": []
+          },
+          {
+            "text": "Need for Speed Unbound ",
+            "children": []
+          },
+          {
+            "text": "F1 24 ",
+            "children": []
+          },
+          {
+            "text": "WRC Generations ",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "リズム ",
+        "children": [
+          {
+            "text": " プロジェクトセカイ カラフルステージ！ ",
+            "children": []
+          },
+          {
+            "text": "太鼓の達人 ",
+            "children": []
+          },
+          {
+            "text": "Beat Saber ",
+            "children": []
+          },
+          {
+            "text": "Cytus II ",
+            "children": []
+          },
+          {
+            "text": "Deemo ",
+            "children": []
+          },
+          {
+            "text": "osu! ",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "レトロ ",
+        "children": [
+          {
+            "text": "  スーパーマリオブラザーズ ",
+            "children": []
+          },
+          {
+            "text": "ドンキーコング ",
+            "children": []
+          },
+          {
+            "text": "パックマン ",
+            "children": []
+          },
+          {
+            "text": "ゼルダの伝説 (初代) ",
+            "children": []
+          },
+          {
+            "text": "メトロイド ",
+            "children": []
+          },
+          {
+            "text": "ファイナルファンタジーVII ",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "インディー ",
+        "children": [
+          {
+            "text": " Stardew Valley ",
+            "children": []
+          },
+          {
+            "text": "Hollow Knight ",
+            "children": []
+          },
+          {
+            "text": "Hades ",
+            "children": []
+          },
+          {
+            "text": "Celeste ",
+            "children": []
+          },
+          {
+            "text": "Slay the Spire ",
+            "children": []
+          },
+          {
+            "text": "Undertale ",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "ローグライク",
+        "children": [
+          {
+            "text": "不思議のダンジョン 風来のシレン",
+            "children": []
+          },
+          {
+            "text": "トルネコの大冒険",
+            "children": []
+          },
+          {
+            "text": "Hades",
+            "children": []
+          },
+          {
+            "text": "Dead Cells",
+            "children": []
+          },
+          {
+            "text": "Slay the Spire",
+            "children": []
+          },
+          {
+            "text": "Darkest Dungeon",
+            "children": []
+          },
+          {
+            "text": "Enter the Gungeon",
+            "children": []
+          },
+          {
+            "text": "The Binding of Isaac",
+            "children": []
+          },
+          {
+            "text": "Risk of Rain 2",
+            "children": []
+          },
+          {
+            "text": "Rogue Legacy",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "カードゲーム",
+        "children": [
+          {
+            "text": "遊戯王",
+            "children": []
+          },
+          {
+            "text": "マジック：ザ・ギャザリング",
+            "children": []
+          },
+          {
+            "text": "ポケモン",
+            "children": []
+          },
+          {
+            "text": "デュエマ",
+            "children": []
+          },
+          {
+            "text": "Hearthstone",
+            "children": []
+          },
+          {
+            "text": "Shadowverse",
+            "children": []
+          },
+          {
+            "text": "ワンピース",
+            "children": []
+          },
+          {
+            "text": "三国志大戦",
+            "children": []
+          },
+          {
+            "text": "カードファイト!! ヴァンガード",
+            "children": []
+          },
+          {
+            "text": "Lycee Overture",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "ボード",
+        "children": [
+          {
+            "text": "スカル　髑髏と薔薇",
+            "children": []
+          },
+          {
+            "text": "犯人は踊る",
+            "children": []
+          },
+          {
+            "text": "宝石の煌き　Splendor",
+            "children": []
+          },
+          {
+            "text": "カスカディア",
+            "children": []
+          },
+          {
+            "text": "SCOUT!",
+            "children": []
+          },
+          {
+            "text": "クリプティッド",
+            "children": []
+          },
+          {
+            "text": "エルドラドを探して",
+            "children": []
+          },
+          {
+            "text": "ジャストワン",
+            "children": []
+          },
+          {
+            "text": "はぁって言うゲーム",
+            "children": []
+          },
+          {
+            "text": "パンデミック",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "乙女ゲー",
+        "children": [
+          {
+            "text": "ときめきメモリアル Girl’s Side",
+            "children": []
+          },
+          {
+            "text": "アンジェリーク",
+            "children": []
+          },
+          {
+            "text": "金色のコルダ",
+            "children": []
+          },
+          {
+            "text": "薄桜鬼",
+            "children": []
+          },
+          {
+            "text": "うたの☆プリンスさまっ♪",
+            "children": []
+          },
+          {
+            "text": "スタンドマイヒーローズ",
+            "children": []
+          },
+          {
+            "text": "アイ★チュウ",
+            "children": []
+          },
+          {
+            "text": "イケメン戦国",
+            "children": []
+          },
+          {
+            "text": "Collar×Malice",
+            "children": []
+          },
+          {
+            "text": "AMNESIA",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "ギャルゲー",
+        "children": [
+          {
+            "text": "Kanon",
+            "children": []
+          },
+          {
+            "text": "AIR",
+            "children": []
+          },
+          {
+            "text": "CLANNAD",
+            "children": []
+          },
+          {
+            "text": "リトルバスターズ！",
+            "children": []
+          },
+          {
+            "text": "School Days",
+            "children": []
+          },
+          {
+            "text": "グリザイアの果実",
+            "children": []
+          },
+          {
+            "text": "恋と選挙とチョコレート",
+            "children": []
+          },
+          {
+            "text": "D.C. ～ダ・カーポ～",
+            "children": []
+          },
+          {
+            "text": "Summer Pockets",
+            "children": []
+          },
+          {
+            "text": "WHITE ALBUM",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "VR",
+        "children": [
+          {
+            "text": "Beat Saber",
+            "children": []
+          },
+          {
+            "text": "Half-Life: Alyx",
+            "children": []
+          },
+          {
+            "text": "VRChat",
+            "children": []
+          },
+          {
+            "text": "Rec Room",
+            "children": []
+          },
+          {
+            "text": "Superhot VR",
+            "children": []
+          },
+          {
+            "text": "The Walking Dead: Saints & Sinners",
+            "children": []
+          },
+          {
+            "text": "No Man’s Sky VR",
+            "children": []
+          },
+          {
+            "text": "Skyrim VR",
+            "children": []
+          },
+          {
+            "text": "Resident Evil 4 VR",
+            "children": []
+          },
+          {
+            "text": "Pavlov VR",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "小ネタ",
+        "children": []
+      }
+    ]
+  },
+  {
+    "text": "アニメ ",
+    "children": [
+      {
+        "text": "バトル　アクション ",
+        "children": [
+          {
+            "text": "鬼滅の刃",
+            "children": []
+          },
+          {
+            "text": "呪術廻戦",
+            "children": []
+          },
+          {
+            "text": "ワンピース",
+            "children": []
+          },
+          {
+            "text": "進撃の巨人",
+            "children": []
+          },
+          {
+            "text": "ナルト",
+            "children": []
+          },
+          {
+            "text": "ドラゴンボール",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "SF",
+        "children": []
+      },
+      {
+        "text": "ファンタジー ",
+        "children": [
+          {
+            "text": "ソードアート・オンライン",
+            "children": []
+          },
+          {
+            "text": "魔法科高校の劣等生",
+            "children": []
+          },
+          {
+            "text": "天元突破グレンラガン",
+            "children": []
+          },
+          {
+            "text": "攻殻機動隊",
+            "children": []
+          },
+          {
+            "text": "新世紀エヴァンゲリオン",
+            "children": []
+          },
+          {
+            "text": "スレイヤーズ",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "ラブコメ",
+        "children": []
+      },
+      {
+        "text": "日常系 　ほのぼの",
+        "children": [
+          {
+            "text": "五等分の花嫁",
+            "children": []
+          },
+          {
+            "text": "かぐや様は告らせたい",
+            "children": []
+          },
+          {
+            "text": "やはり俺の青春ラブコメはまちがっている",
+            "children": []
+          },
+          {
+            "text": "のんのんびより",
+            "children": []
+          },
+          {
+            "text": "とらドラ！",
+            "children": []
+          },
+          {
+            "text": "かみさまみならい ヒミツのここたま",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "スポーツ",
+        "children": []
+      },
+      {
+        "text": "ミステリー　推理",
+        "children": []
+      },
+      {
+        "text": "ホラー　ダーク ",
+        "children": [
+          {
+            "text": "東京喰種",
+            "children": []
+          },
+          {
+            "text": "Another",
+            "children": []
+          },
+          {
+            "text": "地獄少女",
+            "children": []
+          },
+          {
+            "text": "ひぐらしのなく頃に",
+            "children": []
+          },
+          {
+            "text": "Parasyte -パラサイト-",
+            "children": []
+          },
+          {
+            "text": "デスノート",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "異世界系 ",
+        "children": [
+          {
+            "text": "この素晴らしい世界に祝福を！",
+            "children": []
+          },
+          {
+            "text": "転生したらスライムだった件",
+            "children": []
+          },
+          {
+            "text": "異世界魔王と召喚少女の奴隷魔術",
+            "children": []
+          },
+          {
+            "text": "ノーゲーム・ノーライフ",
+            "children": []
+          },
+          {
+            "text": "オーバーロード",
+            "children": []
+          },
+          {
+            "text": "異世界薬局",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "名作アニメ ",
+        "children": [
+          {
+            "text": "ジブリ",
+            "children": []
+          },
+          {
+            "text": "日本昔話",
+            "children": []
+          },
+          {
+            "text": "北斗の拳",
+            "children": []
+          },
+          {
+            "text": "ガンダム",
+            "children": []
+          },
+          {
+            "text": "セーラームーン",
+            "children": []
+          },
+          {
+            "text": "スラムダンク",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "今期",
+        "children": []
+      },
+      {
+        "text": "少年向け",
+        "children": []
+      },
+      {
+        "text": "青年向け",
+        "children": []
+      },
+      {
+        "text": "少女向け",
+        "children": []
+      },
+      {
+        "text": "子供向け",
+        "children": []
+      },
+      {
+        "text": "教育",
+        "children": []
+      },
+      {
+        "text": "ファミリー",
+        "children": []
+      },
+      {
+        "text": "TVアニメ",
+        "children": []
+      },
+      {
+        "text": "ちいかわ",
+        "children": []
+      },
+      {
+        "text": "劇場版アニメ",
+        "children": []
+      },
+      {
+        "text": "OVA",
+        "children": []
+      },
+      {
+        "text": "配信限定",
+        "children": []
+      },
+      {
+        "text": "ショートアニメ",
+        "children": []
+      },
+      {
+        "text": "深夜アニメ",
+        "children": []
+      },
+      {
+        "text": "長編シリーズ",
+        "children": []
+      },
+      {
+        "text": "原作付き",
+        "children": []
+      },
+      {
+        "text": "オリジナルアニメ",
+        "children": []
+      }
+    ]
+  },
+  {
+    "text": "映画・ドラマ ",
+    "children": [
+      {
+        "text": "洋画 ",
+        "children": [
+          {
+            "text": "アクション ",
+            "children": []
+          },
+          {
+            "text": "サスペンス　ミステリー ",
+            "children": []
+          },
+          {
+            "text": "ホラー ",
+            "children": []
+          },
+          {
+            "text": "コメディ ",
+            "children": []
+          },
+          {
+            "text": "SF　ファンタジー ",
+            "children": []
+          },
+          {
+            "text": "名作",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "邦画 ",
+        "children": [
+          {
+            "text": "アクション ",
+            "children": []
+          },
+          {
+            "text": "サスペンス　ミステリー ",
+            "children": []
+          },
+          {
+            "text": "ホラー ",
+            "children": []
+          },
+          {
+            "text": "コメディ ",
+            "children": []
+          },
+          {
+            "text": "SF　ファンタジー ",
+            "children": []
+          },
+          {
+            "text": "名作",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "海外ドラマ ",
+        "children": [
+          {
+            "text": "アクション ",
+            "children": []
+          },
+          {
+            "text": "サスペンス　ミステリー ",
+            "children": []
+          },
+          {
+            "text": "ホラー ",
+            "children": []
+          },
+          {
+            "text": "コメディ ",
+            "children": []
+          },
+          {
+            "text": "SF　ファンタジー ",
+            "children": []
+          },
+          {
+            "text": "名作",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "国内ドラマ ",
+        "children": [
+          {
+            "text": "アクション ",
+            "children": []
+          },
+          {
+            "text": "サスペンス　ミステリー ",
+            "children": []
+          },
+          {
+            "text": "ホラー ",
+            "children": []
+          },
+          {
+            "text": "コメディ ",
+            "children": []
+          },
+          {
+            "text": "SF　ファンタジー ",
+            "children": []
+          },
+          {
+            "text": "名作",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "アクション ",
+        "children": []
+      },
+      {
+        "text": "サスペンス　ミステリー ",
+        "children": []
+      },
+      {
+        "text": "ホラー ",
+        "children": []
+      },
+      {
+        "text": "コメディ ",
+        "children": []
+      },
+      {
+        "text": "SF　ファンタジー ",
+        "children": []
+      },
+      {
+        "text": "名作",
+        "children": []
+      }
+    ]
+  },
+  {
+    "text": "音楽 ",
+    "children": [
+      {
+        "text": " J-POP ",
+        "children": [
+          {
+            "text": "80〜90年代",
+            "children": []
+          },
+          {
+            "text": "2000年代",
+            "children": []
+          },
+          {
+            "text": "2010年代",
+            "children": []
+          },
+          {
+            "text": "2020年代",
+            "children": []
+          },
+          {
+            "text": "カラオケ定番",
+            "children": []
+          },
+          {
+            "text": "歌い手カバー",
+            "children": []
+          },
+          {
+            "text": "フェス・ライブ",
+            "children": []
+          },
+          {
+            "text": "YOASOBI",
+            "children": []
+          },
+          {
+            "text": "Mrs. GREEN APPLE",
+            "children": []
+          },
+          {
+            "text": "藤井 風",
+            "children": []
+          },
+          {
+            "text": "Official髭男dism",
+            "children": []
+          },
+          {
+            "text": "米津玄師",
+            "children": []
+          },
+          {
+            "text": "Vaundy",
+            "children": []
+          },
+          {
+            "text": "imase",
+            "children": []
+          },
+          {
+            "text": "ano",
+            "children": []
+          },
+          {
+            "text": "新しい学校のリーダーズ",
+            "children": []
+          },
+          {
+            "text": "Snow Man",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "K-POP ",
+        "children": [
+          {
+            "text": "80〜90年代",
+            "children": []
+          },
+          {
+            "text": "2000年代",
+            "children": []
+          },
+          {
+            "text": "2010年代",
+            "children": []
+          },
+          {
+            "text": "2020年代",
+            "children": []
+          },
+          {
+            "text": "カラオケ定番",
+            "children": []
+          },
+          {
+            "text": "歌い手カバー",
+            "children": []
+          },
+          {
+            "text": "フェス・ライブ",
+            "children": []
+          },
+          {
+            "text": "BTS",
+            "children": []
+          },
+          {
+            "text": "BLACKPINK",
+            "children": []
+          },
+          {
+            "text": "NewJeans",
+            "children": []
+          },
+          {
+            "text": "SEVENTEEN",
+            "children": []
+          },
+          {
+            "text": "TWICE",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "洋楽 ",
+        "children": [
+          {
+            "text": "80〜90年代",
+            "children": []
+          },
+          {
+            "text": "2000年代",
+            "children": []
+          },
+          {
+            "text": "2010年代",
+            "children": []
+          },
+          {
+            "text": "2020年代",
+            "children": []
+          },
+          {
+            "text": "和訳",
+            "children": []
+          },
+          {
+            "text": "歌い手カバー",
+            "children": []
+          },
+          {
+            "text": "フェス・ライブ",
+            "children": []
+          },
+          {
+            "text": "Taylor Swift",
+            "children": []
+          },
+          {
+            "text": "Billie Eilish",
+            "children": []
+          },
+          {
+            "text": "Ed Sheeran",
+            "children": []
+          },
+          {
+            "text": "Ariana Grande",
+            "children": []
+          },
+          {
+            "text": "The Beatles",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "邦ロック ",
+        "children": [
+          {
+            "text": "80〜90年代",
+            "children": []
+          },
+          {
+            "text": "2000年代",
+            "children": []
+          },
+          {
+            "text": "2010年代",
+            "children": []
+          },
+          {
+            "text": "2020年代",
+            "children": []
+          },
+          {
+            "text": "カラオケ定番",
+            "children": []
+          },
+          {
+            "text": "歌い手カバー",
+            "children": []
+          },
+          {
+            "text": "フェス・ライブ",
+            "children": []
+          },
+          {
+            "text": "King Gnu",
+            "children": []
+          },
+          {
+            "text": "Saucy Dog",
+            "children": []
+          },
+          {
+            "text": "SHISHAMO",
+            "children": []
+          },
+          {
+            "text": "sumika",
+            "children": []
+          },
+          {
+            "text": "[Alexandros]",
+            "children": []
+          },
+          {
+            "text": "ASIAN KUNG-FU GENERATION",
+            "children": []
+          },
+          {
+            "text": "back number",
+            "children": []
+          },
+          {
+            "text": "緑黄色社会",
+            "children": []
+          },
+          {
+            "text": "SPYAIR",
+            "children": []
+          },
+          {
+            "text": "ヨルシカ",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "アニソン ",
+        "children": [
+          {
+            "text": "80〜90年代",
+            "children": []
+          },
+          {
+            "text": "2000年代",
+            "children": []
+          },
+          {
+            "text": "2010年代",
+            "children": []
+          },
+          {
+            "text": "2020年代",
+            "children": []
+          },
+          {
+            "text": "カラオケ定番",
+            "children": []
+          },
+          {
+            "text": "歌い手カバー",
+            "children": []
+          },
+          {
+            "text": "フェス・ライブ",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "ボカロ ",
+        "children": [
+          {
+            "text": "初期代表曲",
+            "children": []
+          },
+          {
+            "text": "2010年代",
+            "children": []
+          },
+          {
+            "text": "2020年代",
+            "children": []
+          },
+          {
+            "text": "最新",
+            "children": []
+          },
+          {
+            "text": "ロック系",
+            "children": []
+          },
+          {
+            "text": "ポップ系",
+            "children": []
+          },
+          {
+            "text": "ダーク系",
+            "children": []
+          },
+          {
+            "text": "バラード系",
+            "children": []
+          },
+          {
+            "text": "ネタ曲・電波系",
+            "children": []
+          },
+          {
+            "text": "カラオケ定番",
+            "children": []
+          },
+          {
+            "text": "歌い手カバー",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "バズ曲",
+        "children": [
+          {
+            "text": "2010年代前半",
+            "children": []
+          },
+          {
+            "text": "2010年代後半",
+            "children": []
+          },
+          {
+            "text": "2020年代前半",
+            "children": []
+          },
+          {
+            "text": "2020年代後半〜現在",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "TikTokヒット曲",
+        "children": [
+          {
+            "text": "2010年代前半",
+            "children": []
+          },
+          {
+            "text": "2010年代後半",
+            "children": []
+          },
+          {
+            "text": "2020年代前半",
+            "children": []
+          },
+          {
+            "text": "2020年代後半〜現在",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "神曲",
+        "children": [
+          {
+            "text": "2010年代前半",
+            "children": []
+          },
+          {
+            "text": "2010年代後半",
+            "children": []
+          },
+          {
+            "text": "2020年代前半",
+            "children": []
+          },
+          {
+            "text": "2020年代後半〜現在",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "ピアノ",
+        "children": [
+          {
+            "text": "久石譲",
+            "children": []
+          },
+          {
+            "text": "坂本龍一",
+            "children": []
+          },
+          {
+            "text": "クラシックピアノ名曲集",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "インスト ",
+        "children": []
+      },
+      {
+        "text": "ヒップホップ ",
+        "children": [
+          {
+            "text": "80〜90年代",
+            "children": []
+          },
+          {
+            "text": "2000年代",
+            "children": []
+          },
+          {
+            "text": "2010年代",
+            "children": []
+          },
+          {
+            "text": "2020年代",
+            "children": []
+          },
+          {
+            "text": "トラップ系",
+            "children": []
+          },
+          {
+            "text": "ブームバップ系",
+            "children": []
+          },
+          {
+            "text": "コンシャス系",
+            "children": []
+          },
+          {
+            "text": "クラブ系",
+            "children": []
+          },
+          {
+            "text": "Lo-fi",
+            "children": []
+          },
+          {
+            "text": "インスト",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "ジャズ ",
+        "children": [
+          {
+            "text": "カフェ",
+            "children": []
+          },
+          {
+            "text": "ビバップ",
+            "children": []
+          },
+          {
+            "text": "クールジャズ",
+            "children": []
+          },
+          {
+            "text": "フリージャズ",
+            "children": []
+          },
+          {
+            "text": "スムースジャズ",
+            "children": []
+          },
+          {
+            "text": "ラテンジャズ",
+            "children": []
+          },
+          {
+            "text": "1920〜40年代スウィングジャズ",
+            "children": []
+          },
+          {
+            "text": "1950〜60年代モダンジャズ",
+            "children": []
+          },
+          {
+            "text": "1970年代フュージョンジャズ",
+            "children": []
+          },
+          {
+            "text": "1980年代以降コンテンポラリージャズ",
+            "children": []
+          },
+          {
+            "text": "日本ジャズシーン",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "クラシック ",
+        "children": [
+          {
+            "text": "勉強用",
+            "children": []
+          },
+          {
+            "text": "睡眠用",
+            "children": []
+          },
+          {
+            "text": "バロック音楽",
+            "children": []
+          },
+          {
+            "text": "古典派音楽",
+            "children": []
+          },
+          {
+            "text": "ロマン派音楽",
+            "children": []
+          },
+          {
+            "text": "近代クラシック",
+            "children": []
+          },
+          {
+            "text": "現代クラシック",
+            "children": []
+          },
+          {
+            "text": "交響曲",
+            "children": []
+          },
+          {
+            "text": "協奏曲",
+            "children": []
+          },
+          {
+            "text": "室内楽",
+            "children": []
+          },
+          {
+            "text": "オペラ",
+            "children": []
+          },
+          {
+            "text": "宗教音楽",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "フル",
+        "children": []
+      },
+      {
+        "text": "ショート",
+        "children": []
+      },
+      {
+        "text": "ノンストップ",
+        "children": []
+      },
+      {
+        "text": "リミックス",
+        "children": []
+      },
+      {
+        "text": "アレンジ",
+        "children": []
+      },
+      {
+        "text": "ファーストテイク",
+        "children": []
+      },
+      {
+        "text": "カバーソング",
+        "children": [
+          {
+            "text": "昭和歌謡",
+            "children": []
+          },
+          {
+            "text": "平成",
+            "children": []
+          },
+          {
+            "text": "トリビュート",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "勉強用",
+        "children": []
+      },
+      {
+        "text": "睡眠用",
+        "children": []
+      },
+      {
+        "text": "作業用",
+        "children": []
+      },
+      {
+        "text": "癒し",
+        "children": []
+      },
+      {
+        "text": "ドライブ",
+        "children": []
+      },
+      {
+        "text": "フェス",
+        "children": []
+      },
+      {
+        "text": "歌ってみた",
+        "children": [
+          {
+            "text": "切ない",
+            "children": []
+          },
+          {
+            "text": "エモい",
+            "children": []
+          },
+          {
+            "text": "儚い",
+            "children": []
+          },
+          {
+            "text": "哀愁",
+            "children": []
+          },
+          {
+            "text": "泣ける",
+            "children": []
+          },
+          {
+            "text": "癒し",
+            "children": []
+          },
+          {
+            "text": "元気",
+            "children": []
+          },
+          {
+            "text": "明るい",
+            "children": []
+          },
+          {
+            "text": "ガチ歌",
+            "children": []
+          },
+          {
+            "text": "本気歌",
+            "children": []
+          },
+          {
+            "text": "ロック風",
+            "children": []
+          },
+          {
+            "text": "アコースティックver.",
+            "children": []
+          },
+          {
+            "text": "バラードver.",
+            "children": []
+          },
+          {
+            "text": "ポップ風",
+            "children": []
+          },
+          {
+            "text": "イケボ",
+            "children": []
+          },
+          {
+            "text": "カワボ",
+            "children": []
+          },
+          {
+            "text": "低音",
+            "children": []
+          },
+          {
+            "text": "高音",
+            "children": []
+          },
+          {
+            "text": "透明感",
+            "children": []
+          },
+          {
+            "text": "ハスキー",
+            "children": []
+          },
+          {
+            "text": "甘い",
+            "children": []
+          },
+          {
+            "text": "力強い",
+            "children": []
+          },
+          {
+            "text": "優しい",
+            "children": []
+          },
+          {
+            "text": "切ない",
+            "children": []
+          },
+          {
+            "text": "エモい",
+            "children": []
+          },
+          {
+            "text": "しっとり声",
+            "children": []
+          },
+          {
+            "text": "セクシー",
+            "children": []
+          },
+          {
+            "text": "色気",
+            "children": []
+          },
+          {
+            "text": "シャウト",
+            "children": []
+          },
+          {
+            "text": "ささやき系",
+            "children": []
+          },
+          {
+            "text": "劇的",
+            "children": []
+          },
+          {
+            "text": "感情爆発系",
+            "children": []
+          },
+          {
+            "text": "切な系",
+            "children": []
+          },
+          {
+            "text": "癒し系",
+            "children": []
+          },
+          {
+            "text": "元気系",
+            "children": []
+          },
+          {
+            "text": "クール系",
+            "children": []
+          },
+          {
+            "text": "ダーク系",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "弾いてみた",
+        "children": []
+      },
+      {
+        "text": "踊ってみた",
+        "children": []
+      },
+      {
+        "text": "セッション",
+        "children": []
+      },
+      {
+        "text": "アコースティック",
+        "children": []
+      },
+      {
+        "text": "ランキング",
+        "children": []
+      },
+      {
+        "text": "ベスト",
+        "children": []
+      },
+      {
+        "text": "名曲集",
+        "children": []
+      },
+      {
+        "text": "最新曲",
+        "children": []
+      },
+      {
+        "text": "ネタ曲",
+        "children": []
+      },
+      {
+        "text": "電波ソング",
+        "children": []
+      },
+      {
+        "text": "耐久",
+        "children": []
+      },
+      {
+        "text": "メドレー",
+        "children": []
+      },
+      {
+        "text": "理論　講座 　解説",
+        "children": [
+          {
+            "text": "コード進行",
+            "children": []
+          },
+          {
+            "text": "リズム・拍子",
+            "children": []
+          },
+          {
+            "text": "スケール・モード",
+            "children": []
+          },
+          {
+            "text": "作曲",
+            "children": []
+          },
+          {
+            "text": "編曲",
+            "children": []
+          },
+          {
+            "text": "メロディ",
+            "children": []
+          },
+          {
+            "text": "DAW",
+            "children": []
+          },
+          {
+            "text": "演奏技術",
+            "children": []
+          },
+          {
+            "text": "ギターコード",
+            "children": []
+          },
+          {
+            "text": "ピアノ",
+            "children": []
+          },
+          {
+            "text": "ドラム",
+            "children": []
+          },
+          {
+            "text": "ボーカル",
+            "children": []
+          },
+          {
+            "text": "ジャズ",
+            "children": []
+          },
+          {
+            "text": "ボカロ",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "コツ　練習",
+        "children": []
+      },
+      {
+        "text": "音楽史",
+        "children": [
+          {
+            "text": "クラシック",
+            "children": []
+          },
+          {
+            "text": "バッハ",
+            "children": []
+          },
+          {
+            "text": "モーツァルト",
+            "children": []
+          },
+          {
+            "text": "ベートーヴェン",
+            "children": []
+          },
+          {
+            "text": "ショパン",
+            "children": []
+          },
+          {
+            "text": "西洋音楽史",
+            "children": []
+          },
+          {
+            "text": "日本音楽史",
+            "children": []
+          },
+          {
+            "text": "雅楽",
+            "children": []
+          },
+          {
+            "text": "能楽",
+            "children": []
+          },
+          {
+            "text": "民謡",
+            "children": []
+          },
+          {
+            "text": "ジャズ",
+            "children": []
+          },
+          {
+            "text": "ロック",
+            "children": []
+          },
+          {
+            "text": "ヒップホップ",
+            "children": []
+          },
+          {
+            "text": "ポップス",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "text": "バラエティ ",
+    "children": [
+      {
+        "text": "ラジオ ",
+        "children": [
+          {
+            "text": "芸人",
+            "children": []
+          },
+          {
+            "text": "オードリー",
+            "children": []
+          },
+          {
+            "text": "マヂカルラブリー",
+            "children": []
+          },
+          {
+            "text": "ダイアン",
+            "children": []
+          },
+          {
+            "text": "霜降り明星",
+            "children": []
+          },
+          {
+            "text": "バナナマン",
+            "children": []
+          },
+          {
+            "text": "空気階段",
+            "children": []
+          },
+          {
+            "text": "ラランド",
+            "children": []
+          },
+          {
+            "text": "見取り図",
+            "children": []
+          },
+          {
+            "text": "宮下草薙",
+            "children": []
+          },
+          {
+            "text": "ミキ",
+            "children": []
+          },
+          {
+            "text": "ヤーレンズ",
+            "children": []
+          },
+          {
+            "text": "サンドウィッチマン",
+            "children": []
+          },
+          {
+            "text": "ナイツ",
+            "children": []
+          },
+          {
+            "text": "中川家",
+            "children": []
+          },
+          {
+            "text": "有吉弘行",
+            "children": []
+          },
+          {
+            "text": "アルコ＆ピース",
+            "children": []
+          },
+          {
+            "text": "伊集院光",
+            "children": []
+          },
+          {
+            "text": "ミュージシャン",
+            "children": []
+          },
+          {
+            "text": "西川貴教",
+            "children": []
+          },
+          {
+            "text": "FRUITS ZIPPER",
+            "children": []
+          },
+          {
+            "text": "timelesz",
+            "children": []
+          },
+          {
+            "text": "Snow Man",
+            "children": []
+          },
+          {
+            "text": "M!LK",
+            "children": []
+          },
+          {
+            "text": "Mrs. GREEN APPLE",
+            "children": []
+          },
+          {
+            "text": "あいみょん",
+            "children": []
+          },
+          {
+            "text": "アイドル",
+            "children": []
+          },
+          {
+            "text": "＝LOVE",
+            "children": []
+          },
+          {
+            "text": "乃木坂46",
+            "children": []
+          },
+          {
+            "text": "声優",
+            "children": []
+          },
+          {
+            "text": "文化人",
+            "children": []
+          },
+          {
+            "text": "タレント",
+            "children": []
+          },
+          {
+            "text": "長寿番組",
+            "children": []
+          },
+          {
+            "text": "講座",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "トーク",
+        "children": [
+          {
+            "text": "切り抜き",
+            "children": []
+          },
+          {
+            "text": "芸人",
+            "children": []
+          },
+          {
+            "text": "アイドル",
+            "children": []
+          },
+          {
+            "text": "声優",
+            "children": []
+          },
+          {
+            "text": "俳優",
+            "children": []
+          },
+          {
+            "text": "ミュージシャン",
+            "children": []
+          },
+          {
+            "text": "文化人",
+            "children": []
+          },
+          {
+            "text": "著名人",
+            "children": []
+          },
+          {
+            "text": "YouTuber",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "TV",
+        "children": [
+          {
+            "text": "水ダウ",
+            "children": []
+          },
+          {
+            "text": "夜ふかし",
+            "children": []
+          },
+          {
+            "text": "イッテQ",
+            "children": []
+          },
+          {
+            "text": "マツコの世界",
+            "children": []
+          },
+          {
+            "text": "アメトーク",
+            "children": []
+          },
+          {
+            "text": "ぐるナイ",
+            "children": []
+          },
+          {
+            "text": "ロンハー",
+            "children": []
+          },
+          {
+            "text": "鑑定団",
+            "children": []
+          },
+          {
+            "text": "さんま御殿",
+            "children": []
+          },
+          {
+            "text": "鉄腕DASH",
+            "children": []
+          },
+          {
+            "text": "世界まる見え",
+            "children": []
+          },
+          {
+            "text": "ガキ使",
+            "children": []
+          },
+          {
+            "text": "有吉の壁",
+            "children": []
+          },
+          {
+            "text": "有吉ゼミ",
+            "children": []
+          },
+          {
+            "text": "しゃべくり",
+            "children": []
+          },
+          {
+            "text": "ヒルナンデス",
+            "children": []
+          },
+          {
+            "text": "行列",
+            "children": []
+          },
+          {
+            "text": "しくじり先生",
+            "children": []
+          },
+          {
+            "text": "プレバト",
+            "children": []
+          },
+          {
+            "text": "充電させてもらえませんか",
+            "children": []
+          },
+          {
+            "text": "地方ローカル",
+            "children": []
+          },
+          {
+            "text": "CM集",
+            "children": []
+          },
+          {
+            "text": "講座",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "コメディ",
+        "children": [
+          {
+            "text": "銀魂",
+            "children": []
+          },
+          {
+            "text": "ボボボーボ・ボーボボ",
+            "children": []
+          },
+          {
+            "text": "ポプテピピック",
+            "children": []
+          },
+          {
+            "text": "ぐでたま",
+            "children": []
+          },
+          {
+            "text": "おぶんぐさん",
+            "children": []
+          },
+          {
+            "text": "しんぞうの逆襲",
+            "children": []
+          },
+          {
+            "text": "混沌の猫",
+            "children": []
+          },
+          {
+            "text": "テイコウペンギン",
+            "children": []
+          },
+          {
+            "text": "アニメーションカフェ",
+            "children": []
+          },
+          {
+            "text": "シュール",
+            "children": []
+          },
+          {
+            "text": "自主制作",
+            "children": []
+          },
+          {
+            "text": "短編",
+            "children": []
+          },
+          {
+            "text": "インディ",
+            "children": []
+          },
+          {
+            "text": "オリジナル",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "コント",
+        "children": [
+          {
+            "text": "アンガールズ",
+            "children": []
+          },
+          {
+            "text": "インパルス",
+            "children": []
+          },
+          {
+            "text": "かまいたち",
+            "children": []
+          },
+          {
+            "text": "空気階段",
+            "children": []
+          },
+          {
+            "text": "ザ・ギース",
+            "children": []
+          },
+          {
+            "text": "サンドウィッチマン",
+            "children": []
+          },
+          {
+            "text": "シソンヌ",
+            "children": []
+          },
+          {
+            "text": "ジャルジャル",
+            "children": []
+          },
+          {
+            "text": "陣内智則",
+            "children": []
+          },
+          {
+            "text": "チョコレートプラネット",
+            "children": []
+          },
+          {
+            "text": "東京03",
+            "children": []
+          },
+          {
+            "text": "トム・ブラウン",
+            "children": []
+          },
+          {
+            "text": "滝音",
+            "children": []
+          },
+          {
+            "text": "タイムマシーン3号",
+            "children": []
+          },
+          {
+            "text": "さらば青春の光",
+            "children": []
+          },
+          {
+            "text": "バカリズム",
+            "children": []
+          },
+          {
+            "text": "バッテリィズ",
+            "children": []
+          },
+          {
+            "text": "パンサー",
+            "children": []
+          },
+          {
+            "text": "フォーリンラブ",
+            "children": []
+          },
+          {
+            "text": "プラス・マイナス",
+            "children": []
+          },
+          {
+            "text": "マヂカルラブリー",
+            "children": []
+          },
+          {
+            "text": "森本サイダー",
+            "children": []
+          },
+          {
+            "text": "ラーメンズ",
+            "children": []
+          },
+          {
+            "text": "ラバーガール",
+            "children": []
+          },
+          {
+            "text": "ライス",
+            "children": []
+          },
+          {
+            "text": "ラフレクラン",
+            "children": []
+          },
+          {
+            "text": "令和ロマン",
+            "children": []
+          },
+          {
+            "text": "ロバート",
+            "children": []
+          },
+          {
+            "text": "ロングコートダディ",
+            "children": []
+          },
+          {
+            "text": "わらふぢなるお",
+            "children": []
+          },
+          {
+            "text": "アイロンヘッド",
+            "children": []
+          },
+          {
+            "text": "エレキコミック",
+            "children": []
+          },
+          {
+            "text": "エルシャラカーニ",
+            "children": []
+          },
+          {
+            "text": "オードリー",
+            "children": []
+          },
+          {
+            "text": "オズワルド",
+            "children": []
+          },
+          {
+            "text": "ガーリィレコード",
+            "children": []
+          },
+          {
+            "text": "キングオブコメディ",
+            "children": []
+          },
+          {
+            "text": "グランジ",
+            "children": []
+          },
+          {
+            "text": "コロコロチキチキペッパーズ",
+            "children": []
+          },
+          {
+            "text": "サルゴリラ",
+            "children": []
+          },
+          {
+            "text": "ジグザグジギー",
+            "children": []
+          },
+          {
+            "text": "スーパーマラドーナ",
+            "children": []
+          },
+          {
+            "text": "セルライトスパ",
+            "children": []
+          },
+          {
+            "text": "ダイアン",
+            "children": []
+          },
+          {
+            "text": "チュートリアル",
+            "children": []
+          },
+          {
+            "text": "ニッポンの社長",
+            "children": []
+          },
+          {
+            "text": "ネルソンズ",
+            "children": []
+          },
+          {
+            "text": "ハナコ",
+            "children": []
+          },
+          {
+            "text": "ファイヤーサンダー",
+            "children": []
+          },
+          {
+            "text": "モグライダー",
+            "children": []
+          },
+          {
+            "text": "若手",
+            "children": []
+          },
+          {
+            "text": "名作",
+            "children": []
+          },
+          {
+            "text": "怖い",
+            "children": []
+          },
+          {
+            "text": "地下",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "漫才",
+        "children": [
+          {
+            "text": "アインシュタイン",
+            "children": []
+          },
+          {
+            "text": "アメリカザリガニ",
+            "children": []
+          },
+          {
+            "text": "アンタッチャブル",
+            "children": []
+          },
+          {
+            "text": "かまいたち",
+            "children": []
+          },
+          {
+            "text": "金属バット",
+            "children": []
+          },
+          {
+            "text": "ギャロップ",
+            "children": []
+          },
+          {
+            "text": "霜降り明星",
+            "children": []
+          },
+          {
+            "text": "すゑひろがりず",
+            "children": []
+          },
+          {
+            "text": "スーパーマラドーナ",
+            "children": []
+          },
+          {
+            "text": "ダイアン",
+            "children": []
+          },
+          {
+            "text": "ダウンタウン",
+            "children": []
+          },
+          {
+            "text": "チュートリアル",
+            "children": []
+          },
+          {
+            "text": "千鳥",
+            "children": []
+          },
+          {
+            "text": "東京03",
+            "children": []
+          },
+          {
+            "text": "トレンディエンジェル",
+            "children": []
+          },
+          {
+            "text": "中川家",
+            "children": []
+          },
+          {
+            "text": "ナイツ",
+            "children": []
+          },
+          {
+            "text": "NON STYLE",
+            "children": []
+          },
+          {
+            "text": "博多華丸・大吉",
+            "children": []
+          },
+          {
+            "text": "ハライチ",
+            "children": []
+          },
+          {
+            "text": "パンクブーブー",
+            "children": []
+          },
+          {
+            "text": "プラス・マイナス",
+            "children": []
+          },
+          {
+            "text": "ヘンダーソン",
+            "children": []
+          },
+          {
+            "text": "見取り図",
+            "children": []
+          },
+          {
+            "text": "ミルクボーイ",
+            "children": []
+          },
+          {
+            "text": "モグライダー",
+            "children": []
+          },
+          {
+            "text": "マヂカルラブリー",
+            "children": []
+          },
+          {
+            "text": "笑い飯",
+            "children": []
+          },
+          {
+            "text": "笑アップ",
+            "children": []
+          },
+          {
+            "text": "EXIT",
+            "children": []
+          },
+          {
+            "text": "ヤーレンズ",
+            "children": []
+          },
+          {
+            "text": "ゆにばーす",
+            "children": []
+          },
+          {
+            "text": "ライス",
+            "children": []
+          },
+          {
+            "text": "令和ロマン",
+            "children": []
+          },
+          {
+            "text": "和牛",
+            "children": []
+          },
+          {
+            "text": "オードリー",
+            "children": []
+          },
+          {
+            "text": "オズワルド",
+            "children": []
+          },
+          {
+            "text": "ジャルジャル",
+            "children": []
+          },
+          {
+            "text": "インディアンス",
+            "children": []
+          },
+          {
+            "text": "B&B",
+            "children": []
+          },
+          {
+            "text": "天竺鼠",
+            "children": []
+          },
+          {
+            "text": "錦鯉",
+            "children": []
+          },
+          {
+            "text": "ロングコートダディ",
+            "children": []
+          },
+          {
+            "text": "タカアンドトシ",
+            "children": []
+          },
+          {
+            "text": "若手",
+            "children": []
+          },
+          {
+            "text": "レジェンド",
+            "children": []
+          },
+          {
+            "text": "地下",
+            "children": []
+          },
+          {
+            "text": "名作",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "落語",
+        "children": [
+          {
+            "text": "人情噺",
+            "children": []
+          },
+          {
+            "text": "芝浜",
+            "children": []
+          },
+          {
+            "text": "井戸の茶碗",
+            "children": []
+          },
+          {
+            "text": "文七元結",
+            "children": []
+          },
+          {
+            "text": "三方一両損",
+            "children": []
+          },
+          {
+            "text": "滑稽噺",
+            "children": []
+          },
+          {
+            "text": "寿限無",
+            "children": []
+          },
+          {
+            "text": "時そば",
+            "children": []
+          },
+          {
+            "text": "まんじゅうこわい",
+            "children": []
+          },
+          {
+            "text": "牛ほめ",
+            "children": []
+          },
+          {
+            "text": "動物園",
+            "children": []
+          },
+          {
+            "text": "怪談",
+            "children": []
+          },
+          {
+            "text": "世話物",
+            "children": []
+          },
+          {
+            "text": "死神",
+            "children": []
+          },
+          {
+            "text": "らくだ",
+            "children": []
+          },
+          {
+            "text": "鰍沢",
+            "children": []
+          },
+          {
+            "text": "忠臣蔵外伝",
+            "children": []
+          },
+          {
+            "text": "シュール",
+            "children": []
+          },
+          {
+            "text": "風刺",
+            "children": []
+          },
+          {
+            "text": "頭山",
+            "children": []
+          },
+          {
+            "text": "明烏",
+            "children": []
+          },
+          {
+            "text": "ちりとてちん",
+            "children": []
+          },
+          {
+            "text": "愛宕山",
+            "children": []
+          },
+          {
+            "text": "ベテラン",
+            "children": []
+          },
+          {
+            "text": "桂米朝",
+            "children": []
+          },
+          {
+            "text": "柳家小三治",
+            "children": []
+          },
+          {
+            "text": "桂歌丸",
+            "children": []
+          },
+          {
+            "text": "三遊亭円楽",
+            "children": []
+          },
+          {
+            "text": "春風亭小朝",
+            "children": []
+          },
+          {
+            "text": "立川談志",
+            "children": []
+          },
+          {
+            "text": "中堅",
+            "children": []
+          },
+          {
+            "text": "春風亭昇太",
+            "children": []
+          },
+          {
+            "text": "立川志の輔",
+            "children": []
+          },
+          {
+            "text": "柳家喬太郎",
+            "children": []
+          },
+          {
+            "text": "三遊亭白鳥",
+            "children": []
+          },
+          {
+            "text": "桂文枝",
+            "children": []
+          },
+          {
+            "text": "三遊亭好楽",
+            "children": []
+          },
+          {
+            "text": "新世代",
+            "children": []
+          },
+          {
+            "text": "春風亭一之輔",
+            "children": []
+          },
+          {
+            "text": "瀧川鯉斗",
+            "children": []
+          },
+          {
+            "text": "柳亭小痴楽",
+            "children": []
+          },
+          {
+            "text": "蝶花楼桃花",
+            "children": []
+          },
+          {
+            "text": "桂宮治",
+            "children": []
+          },
+          {
+            "text": "古今亭菊之丞",
+            "children": []
+          },
+          {
+            "text": "五街道雲助",
+            "children": []
+          },
+          {
+            "text": "柳家さん喬",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "大喜利",
+        "children": [
+          {
+            "text": "芸人",
+            "children": []
+          },
+          {
+            "text": "バカリズム",
+            "children": []
+          },
+          {
+            "text": "サンドウィッチマン",
+            "children": []
+          },
+          {
+            "text": "千原ジュニア",
+            "children": []
+          },
+          {
+            "text": "オードリー若林",
+            "children": []
+          },
+          {
+            "text": "ナイツ土屋",
+            "children": []
+          },
+          {
+            "text": "くりぃむしちゅー上田",
+            "children": []
+          },
+          {
+            "text": "ラジオ",
+            "children": []
+          },
+          {
+            "text": "オールナイトニッポン",
+            "children": []
+          },
+          {
+            "text": "イッポン",
+            "children": []
+          },
+          {
+            "text": "ライブ",
+            "children": []
+          },
+          {
+            "text": "ネット配信",
+            "children": []
+          },
+          {
+            "text": "参加型",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "ドッキリ",
+        "children": [
+          {
+            "text": "仕掛け",
+            "children": []
+          },
+          {
+            "text": "ネタばらし",
+            "children": []
+          },
+          {
+            "text": "ターゲット",
+            "children": []
+          },
+          {
+            "text": "サプライズ",
+            "children": []
+          },
+          {
+            "text": "恐怖",
+            "children": []
+          },
+          {
+            "text": "リアクション",
+            "children": []
+          },
+          {
+            "text": "爆笑",
+            "children": []
+          },
+          {
+            "text": "神回",
+            "children": []
+          },
+          {
+            "text": "ガチ",
+            "children": []
+          },
+          {
+            "text": "伝説",
+            "children": []
+          },
+          {
+            "text": "芸人",
+            "children": []
+          },
+          {
+            "text": "アイドル",
+            "children": []
+          },
+          {
+            "text": "素人",
+            "children": []
+          },
+          {
+            "text": "学校",
+            "children": []
+          },
+          {
+            "text": "街中",
+            "children": []
+          },
+          {
+            "text": "海外",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "芸人",
+        "children": [
+          {
+            "text": "陣内智則のネタジン",
+            "children": []
+          },
+          {
+            "text": "狩野英孝 EIKO!GO!!",
+            "children": []
+          },
+          {
+            "text": "NAOMI CLUB",
+            "children": []
+          },
+          {
+            "text": "FUJIWARA超合キーン",
+            "children": []
+          },
+          {
+            "text": "くっきー！の土曜のくっきー！！",
+            "children": []
+          },
+          {
+            "text": "どぶろっくチャンネル",
+            "children": []
+          },
+          {
+            "text": "スギちゃんねる",
+            "children": []
+          },
+          {
+            "text": "井戸田潤のハンバーグ師匠TV",
+            "children": []
+          },
+          {
+            "text": "バキ童チャンネル",
+            "children": []
+          },
+          {
+            "text": "馬場ごはん",
+            "children": []
+          },
+          {
+            "text": "Hiromi factory チャンネル",
+            "children": []
+          },
+          {
+            "text": "こがけんの料理チャンネル",
+            "children": []
+          },
+          {
+            "text": "じゅんいちダビッドソンTV",
+            "children": []
+          },
+          {
+            "text": "デニスの怖いYouTube",
+            "children": []
+          },
+          {
+            "text": "かまいたちチャンネル",
+            "children": []
+          },
+          {
+            "text": "こたけ正義感のギルティーチャンネル",
+            "children": []
+          },
+          {
+            "text": "ジェラードンチャンネル",
+            "children": []
+          },
+          {
+            "text": "板橋ハウス",
+            "children": []
+          },
+          {
+            "text": "ザ・きんにくTV",
+            "children": []
+          },
+          {
+            "text": "さま～ずちゃんねる",
+            "children": []
+          },
+          {
+            "text": "レインボーコントチャンネル",
+            "children": []
+          },
+          {
+            "text": "ダイアン公式チャンネル",
+            "children": []
+          },
+          {
+            "text": "タイムマシーン3号",
+            "children": []
+          },
+          {
+            "text": "徳井video",
+            "children": []
+          },
+          {
+            "text": "ガーリィレコードチャンネル",
+            "children": []
+          },
+          {
+            "text": "サンシャイン池崎の超・空前絶後",
+            "children": []
+          },
+          {
+            "text": "すゑひろがりず局番",
+            "children": []
+          },
+          {
+            "text": "ざっくりYouTube",
+            "children": []
+          },
+          {
+            "text": "中川家の寄席",
+            "children": []
+          },
+          {
+            "text": "チョコレートプラネットチャンネル",
+            "children": []
+          },
+          {
+            "text": "ダイアン津田のゴイゴイスーチャンネル",
+            "children": []
+          },
+          {
+            "text": "水田信二の注文の多い料理教室",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "女性アイドル",
+        "children": [
+          {
+            "text": "乃木坂46",
+            "children": []
+          },
+          {
+            "text": "櫻坂46",
+            "children": []
+          },
+          {
+            "text": "日向坂46",
+            "children": []
+          },
+          {
+            "text": "AKB48",
+            "children": []
+          },
+          {
+            "text": "SKE48",
+            "children": []
+          },
+          {
+            "text": "NMB48",
+            "children": []
+          },
+          {
+            "text": "HKT48",
+            "children": []
+          },
+          {
+            "text": "モーニング娘。",
+            "children": []
+          },
+          {
+            "text": "Perfume",
+            "children": []
+          },
+          {
+            "text": "BABYMETAL",
+            "children": []
+          },
+          {
+            "text": "＝LOVE（イコールラブ）",
+            "children": []
+          },
+          {
+            "text": "FRUITS ZIPPER",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "男性アイドル",
+        "children": [
+          {
+            "text": "Snow Man",
+            "children": []
+          },
+          {
+            "text": "SixTONES",
+            "children": []
+          },
+          {
+            "text": "King & Prince",
+            "children": []
+          },
+          {
+            "text": "SUPER EIGHT",
+            "children": []
+          },
+          {
+            "text": "Hey! Say! JUMP",
+            "children": []
+          },
+          {
+            "text": "Kis-My-Ft2",
+            "children": []
+          },
+          {
+            "text": "NEWS",
+            "children": []
+          },
+          {
+            "text": "KinKi Kids",
+            "children": []
+          },
+          {
+            "text": "BE:FIRST",
+            "children": []
+          },
+          {
+            "text": "JO1",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "韓国アイドル",
+        "children": [
+          {
+            "text": "BTS",
+            "children": []
+          },
+          {
+            "text": "SEVENTEEN",
+            "children": []
+          },
+          {
+            "text": "Stray Kids",
+            "children": []
+          },
+          {
+            "text": "TOMORROW X TOGETHER",
+            "children": []
+          },
+          {
+            "text": "ENHYPEN",
+            "children": []
+          },
+          {
+            "text": "TREASURE",
+            "children": []
+          },
+          {
+            "text": "NCT",
+            "children": []
+          },
+          {
+            "text": "EXO",
+            "children": []
+          },
+          {
+            "text": "ATEEZ",
+            "children": []
+          },
+          {
+            "text": "THE BOYZ",
+            "children": []
+          },
+          {
+            "text": "SHINee",
+            "children": []
+          },
+          {
+            "text": "MONSTA X",
+            "children": []
+          },
+          {
+            "text": "GOT7",
+            "children": []
+          },
+          {
+            "text": "SuperM",
+            "children": []
+          },
+          {
+            "text": "TWICE",
+            "children": []
+          },
+          {
+            "text": "BLACKPINK",
+            "children": []
+          },
+          {
+            "text": "IVE",
+            "children": []
+          },
+          {
+            "text": "LE SSERAFIM",
+            "children": []
+          },
+          {
+            "text": "NewJeans",
+            "children": []
+          },
+          {
+            "text": "aespa",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "YouTuber",
+        "children": [
+          {
+            "text": "ヒカキン",
+            "children": []
+          },
+          {
+            "text": "はじめしゃちょー",
+            "children": []
+          },
+          {
+            "text": "東海オンエア",
+            "children": []
+          },
+          {
+            "text": "フィッシャーズ",
+            "children": []
+          },
+          {
+            "text": "水溜りボンド",
+            "children": []
+          },
+          {
+            "text": "スカイピース",
+            "children": []
+          },
+          {
+            "text": "コムドット",
+            "children": []
+          },
+          {
+            "text": "ヒカル",
+            "children": []
+          },
+          {
+            "text": "ラファエル",
+            "children": []
+          },
+          {
+            "text": "ブルーシー",
+            "children": []
+          },
+          {
+            "text": "リベラルアーツ大学",
+            "children": []
+          },
+          {
+            "text": "まあたそ",
+            "children": []
+          },
+          {
+            "text": "てんちむ",
+            "children": []
+          },
+          {
+            "text": "ヴァンゆん",
+            "children": []
+          },
+          {
+            "text": "新人",
+            "children": []
+          },
+          {
+            "text": "若手",
+            "children": []
+          },
+          {
+            "text": "急上昇",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "VTuber",
+        "children": [
+          {
+            "text": "ホロライブ",
+            "children": []
+          },
+          {
+            "text": "にじさんじ",
+            "children": []
+          },
+          {
+            "text": "ぽこぴー",
+            "children": []
+          },
+          {
+            "text": "個人",
+            "children": []
+          },
+          {
+            "text": "新人",
+            "children": []
+          },
+          {
+            "text": "若手",
+            "children": []
+          },
+          {
+            "text": "急上昇",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "実況者",
+        "children": [
+          {
+            "text": "TOP4",
+            "children": []
+          },
+          {
+            "text": "レトルト",
+            "children": []
+          },
+          {
+            "text": "牛沢",
+            "children": []
+          },
+          {
+            "text": "ガッチマン",
+            "children": []
+          },
+          {
+            "text": "キヨ",
+            "children": []
+          },
+          {
+            "text": "P-P",
+            "children": []
+          },
+          {
+            "text": "ジャック・オ・蘭たん",
+            "children": []
+          },
+          {
+            "text": "すぎる",
+            "children": []
+          },
+          {
+            "text": "shu3",
+            "children": []
+          },
+          {
+            "text": "ポッキー",
+            "children": []
+          },
+          {
+            "text": "兄者弟者",
+            "children": []
+          },
+          {
+            "text": "まいぜんシスターズ",
+            "children": []
+          },
+          {
+            "text": "はじめしゃちょー",
+            "children": []
+          },
+          {
+            "text": "ドズル社",
+            "children": []
+          },
+          {
+            "text": "カラフルピーチ",
+            "children": []
+          },
+          {
+            "text": "茶々茶",
+            "children": []
+          },
+          {
+            "text": "明日香ちゃんねる",
+            "children": []
+          },
+          {
+            "text": "GAMEゆうな",
+            "children": []
+          },
+          {
+            "text": "ろあのゲームチャンネル",
+            "children": []
+          },
+          {
+            "text": "狩野英孝",
+            "children": []
+          },
+          {
+            "text": "EIKO!GO!!",
+            "children": []
+          },
+          {
+            "text": "しゃけぷー",
+            "children": []
+          },
+          {
+            "text": "ウォーターチャレンジ",
+            "children": []
+          },
+          {
+            "text": "あかさかの箱",
+            "children": []
+          },
+          {
+            "text": "新人",
+            "children": []
+          },
+          {
+            "text": "若手",
+            "children": []
+          },
+          {
+            "text": "急上昇",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "text": "スポーツ ",
+    "children": [
+      {
+        "text": "サッカー",
+        "children": []
+      },
+      {
+        "text": "野球",
+        "children": []
+      },
+      {
+        "text": "バスケットボール",
+        "children": []
+      },
+      {
+        "text": "テニス",
+        "children": []
+      },
+      {
+        "text": "ゴルフ",
+        "children": []
+      },
+      {
+        "text": "水泳",
+        "children": []
+      },
+      {
+        "text": "格闘技",
+        "children": []
+      },
+      {
+        "text": "モータースポーツ",
+        "children": []
+      },
+      {
+        "text": "名場面集",
+        "children": []
+      }
+    ]
+  },
+  {
+    "text": "乗り物 ",
+    "children": [
+      {
+        "text": "車",
+        "children": []
+      },
+      {
+        "text": "バイク",
+        "children": []
+      },
+      {
+        "text": "自転車",
+        "children": []
+      },
+      {
+        "text": "船　クルーズ",
+        "children": []
+      },
+      {
+        "text": "飛行機",
+        "children": []
+      },
+      {
+        "text": "鉄道",
+        "children": []
+      },
+      {
+        "text": "ミリタリー",
+        "children": []
+      },
+      {
+        "text": "特殊車両",
+        "children": []
+      },
+      {
+        "text": "整備",
+        "children": []
+      }
+    ]
+  },
+  {
+    "text": "旅行 ",
+    "children": [
+      {
+        "text": "国内",
+        "children": []
+      },
+      {
+        "text": "海外",
+        "children": []
+      },
+      {
+        "text": "自然　景色",
+        "children": []
+      },
+      {
+        "text": "キャンプ　アウトドア",
+        "children": []
+      },
+      {
+        "text": "登山　ハイキング",
+        "children": []
+      },
+      {
+        "text": "都市観光",
+        "children": []
+      },
+      {
+        "text": "グルメ旅行",
+        "children": []
+      },
+      {
+        "text": "鉄道　バス",
+        "children": []
+      }
+    ]
+  },
+  {
+    "text": "料理 ",
+    "children": [
+      {
+        "text": "和食 ",
+        "children": []
+      },
+      {
+        "text": "洋食 ",
+        "children": []
+      },
+      {
+        "text": "中華 ",
+        "children": []
+      },
+      {
+        "text": "スイーツ ",
+        "children": []
+      },
+      {
+        "text": "家庭レシピ ",
+        "children": []
+      },
+      {
+        "text": "時短・節約レシピ",
+        "children": []
+      },
+      {
+        "text": "ヘルシー",
+        "children": []
+      },
+      {
+        "text": "プロ ",
+        "children": []
+      },
+      {
+        "text": "屋台",
+        "children": []
+      },
+      {
+        "text": "作ってみた",
+        "children": [
+          {
+            "text": "すいじばSUIJIBA",
+            "children": []
+          },
+          {
+            "text": "ロウアイキュー",
+            "children": []
+          },
+          {
+            "text": "タイガキングダム",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "text": "美容",
+    "children": [
+      {
+        "text": "ヘアケア",
+        "children": [
+          {
+            "text": "ヘアオイル",
+            "children": []
+          },
+          {
+            "text": "髪質改善",
+            "children": []
+          },
+          {
+            "text": "美容室トリートメント",
+            "children": []
+          },
+          {
+            "text": "ドライヤー比較",
+            "children": []
+          },
+          {
+            "text": "ヘアカラー",
+            "children": []
+          },
+          {
+            "text": "シャンプー",
+            "children": []
+          },
+          {
+            "text": "ヘアマスク",
+            "children": []
+          },
+          {
+            "text": "頭皮",
+            "children": []
+          },
+          {
+            "text": "ダメージ補修",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "スキンケア",
+        "children": [
+          {
+            "text": "毛穴",
+            "children": []
+          },
+          {
+            "text": "ニキビ対策",
+            "children": []
+          },
+          {
+            "text": "敏感肌",
+            "children": []
+          },
+          {
+            "text": "乾燥対策",
+            "children": []
+          },
+          {
+            "text": "保湿クリーム",
+            "children": []
+          },
+          {
+            "text": "セラミド保湿",
+            "children": []
+          },
+          {
+            "text": "オイルフリー",
+            "children": []
+          },
+          {
+            "text": "化粧水",
+            "children": []
+          },
+          {
+            "text": "クレンジング",
+            "children": []
+          },
+          {
+            "text": "洗顔料",
+            "children": []
+          },
+          {
+            "text": "トナー",
+            "children": []
+          },
+          {
+            "text": "ピーリング",
+            "children": []
+          },
+          {
+            "text": "角質ケア",
+            "children": []
+          },
+          {
+            "text": "整肌",
+            "children": []
+          },
+          {
+            "text": "シートマスク",
+            "children": []
+          },
+          {
+            "text": "パック",
+            "children": []
+          },
+          {
+            "text": "アイクリーム",
+            "children": []
+          },
+          {
+            "text": "美白",
+            "children": []
+          },
+          {
+            "text": "透明感",
+            "children": []
+          },
+          {
+            "text": "紫外線対策",
+            "children": []
+          },
+          {
+            "text": "日焼け止め",
+            "children": []
+          },
+          {
+            "text": "アンチエイジング",
+            "children": []
+          },
+          {
+            "text": "エイジングケア",
+            "children": []
+          },
+          {
+            "text": "リフトアップ",
+            "children": []
+          },
+          {
+            "text": "美容液",
+            "children": []
+          },
+          {
+            "text": "レチノール",
+            "children": []
+          },
+          {
+            "text": "デパコススキンケア",
+            "children": []
+          },
+          {
+            "text": "プチプラ",
+            "children": []
+          },
+          {
+            "text": "韓国コスメ",
+            "children": []
+          },
+          {
+            "text": "夜用ルーティン",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "text": "メイク",
+    "children": [
+      {
+        "text": "ブランド",
+        "children": [
+          {
+            "text": "コスメ",
+            "children": []
+          },
+          {
+            "text": "デパコス",
+            "children": []
+          },
+          {
+            "text": "Dior",
+            "children": []
+          },
+          {
+            "text": "CHANEL",
+            "children": []
+          },
+          {
+            "text": "資生堂",
+            "children": []
+          },
+          {
+            "text": "コスメデコルテ",
+            "children": []
+          },
+          {
+            "text": "クレ・ド・ポー ボーテ",
+            "children": []
+          },
+          {
+            "text": "YVES SAINT LAURENT",
+            "children": []
+          },
+          {
+            "text": "アルビオン",
+            "children": []
+          },
+          {
+            "text": "SK-Ⅱ",
+            "children": []
+          },
+          {
+            "text": "エレガンス",
+            "children": []
+          },
+          {
+            "text": "カネボウ",
+            "children": []
+          },
+          {
+            "text": "リップ",
+            "children": []
+          },
+          {
+            "text": "ファンデ",
+            "children": []
+          },
+          {
+            "text": "美容液",
+            "children": []
+          },
+          {
+            "text": "セラム",
+            "children": []
+          },
+          {
+            "text": "アイシャドウ",
+            "children": []
+          },
+          {
+            "text": "マスカラ",
+            "children": []
+          },
+          {
+            "text": "アイライナー",
+            "children": []
+          },
+          {
+            "text": "香水",
+            "children": []
+          },
+          {
+            "text": "フレグランス",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "プチプラ",
+        "children": [
+          {
+            "text": "コスメ",
+            "children": []
+          },
+          {
+            "text": "DAISOコスメ",
+            "children": []
+          },
+          {
+            "text": "セリアコスメ",
+            "children": []
+          },
+          {
+            "text": "ワンコインコスメ",
+            "children": []
+          },
+          {
+            "text": "ドンキコスメ",
+            "children": []
+          },
+          {
+            "text": "100均コスメ",
+            "children": []
+          },
+          {
+            "text": "リップ",
+            "children": []
+          },
+          {
+            "text": "ファンデ",
+            "children": []
+          },
+          {
+            "text": "美容液",
+            "children": []
+          },
+          {
+            "text": "セラム",
+            "children": []
+          },
+          {
+            "text": "アイシャドウ",
+            "children": []
+          },
+          {
+            "text": "マスカラ",
+            "children": []
+          },
+          {
+            "text": "アイライナー",
+            "children": []
+          },
+          {
+            "text": "香水",
+            "children": []
+          },
+          {
+            "text": "フレグランス",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "韓国",
+        "children": []
+      },
+      {
+        "text": "垢抜け",
+        "children": []
+      },
+      {
+        "text": "男子ウケ",
+        "children": []
+      },
+      {
+        "text": "デカ目",
+        "children": []
+      },
+      {
+        "text": "ナチュラル",
+        "children": []
+      },
+      {
+        "text": "すっぴん風",
+        "children": []
+      },
+      {
+        "text": "大人女子",
+        "children": []
+      },
+      {
+        "text": "学生",
+        "children": []
+      },
+      {
+        "text": "ハロウィン",
+        "children": []
+      },
+      {
+        "text": "季節",
+        "children": []
+      },
+      {
+        "text": "春",
+        "children": []
+      },
+      {
+        "text": "夏",
+        "children": []
+      },
+      {
+        "text": "秋",
+        "children": []
+      },
+      {
+        "text": "冬",
+        "children": []
+      }
+    ]
+  },
+  {
+    "text": "ファッション ",
+    "children": [
+      {
+        "text": "コーデ",
+        "children": [
+          {
+            "text": "秋冬",
+            "children": []
+          },
+          {
+            "text": "春夏",
+            "children": []
+          },
+          {
+            "text": "GU",
+            "children": []
+          },
+          {
+            "text": "ユニクロ",
+            "children": []
+          },
+          {
+            "text": "大人女子",
+            "children": []
+          },
+          {
+            "text": "学生",
+            "children": []
+          },
+          {
+            "text": "オフィスカジュアル",
+            "children": []
+          },
+          {
+            "text": "デート",
+            "children": []
+          },
+          {
+            "text": "旅行",
+            "children": []
+          },
+          {
+            "text": "モノトーン",
+            "children": []
+          },
+          {
+            "text": "古着",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "ブランド",
+        "children": [
+          {
+            "text": "シャネル",
+            "children": []
+          },
+          {
+            "text": "ルイヴィトン",
+            "children": []
+          },
+          {
+            "text": "グッチ",
+            "children": []
+          },
+          {
+            "text": "ディオール ",
+            "children": []
+          },
+          {
+            "text": "ティファニー",
+            "children": []
+          },
+          {
+            "text": "カルティエ",
+            "children": []
+          },
+          {
+            "text": "プラダ",
+            "children": []
+          },
+          {
+            "text": "エルメス",
+            "children": []
+          },
+          {
+            "text": "バレンシアガ",
+            "children": []
+          },
+          {
+            "text": "サンローラン",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "プチプラ",
+        "children": [
+          {
+            "text": "GU",
+            "children": []
+          },
+          {
+            "text": "しまむら",
+            "children": []
+          },
+          {
+            "text": "ユニクロ",
+            "children": []
+          },
+          {
+            "text": "GUアクセサリー",
+            "children": []
+          },
+          {
+            "text": "しまむらアクセサリー",
+            "children": []
+          },
+          {
+            "text": "DAISOアクセサリー",
+            "children": []
+          },
+          {
+            "text": "セリアアクセサリー",
+            "children": []
+          },
+          {
+            "text": "ワンコインアクセサリー",
+            "children": []
+          },
+          {
+            "text": "ドンキアクセサリー",
+            "children": []
+          },
+          {
+            "text": "100均アクセサリー",
+            "children": []
+          },
+          {
+            "text": "香水",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "メンズ",
+        "children": [
+          {
+            "text": "秋冬",
+            "children": []
+          },
+          {
+            "text": "春夏",
+            "children": []
+          },
+          {
+            "text": "デート",
+            "children": []
+          },
+          {
+            "text": "旅行",
+            "children": []
+          },
+          {
+            "text": "モノトーン",
+            "children": []
+          },
+          {
+            "text": "ユニクロ",
+            "children": []
+          },
+          {
+            "text": "GU",
+            "children": []
+          },
+          {
+            "text": "古着",
+            "children": []
+          },
+          {
+            "text": "ストリート",
+            "children": []
+          },
+          {
+            "text": "学生",
+            "children": []
+          },
+          {
+            "text": "大人",
+            "children": []
+          },
+          {
+            "text": "ブランド解説",
+            "children": []
+          },
+          {
+            "text": "スーツ着こなし",
+            "children": []
+          },
+          {
+            "text": "ヘアセット",
+            "children": []
+          },
+          {
+            "text": "カジュアル",
+            "children": []
+          },
+          {
+            "text": "モード系",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "ネイル",
+        "children": [
+          {
+            "text": "ワンホン",
+            "children": []
+          },
+          {
+            "text": "マグネット",
+            "children": []
+          },
+          {
+            "text": "ガラスフレンチ",
+            "children": []
+          },
+          {
+            "text": "ニュアンス",
+            "children": []
+          },
+          {
+            "text": "韓国",
+            "children": []
+          },
+          {
+            "text": "春",
+            "children": []
+          },
+          {
+            "text": "夏",
+            "children": []
+          },
+          {
+            "text": "秋",
+            "children": []
+          },
+          {
+            "text": "冬",
+            "children": []
+          },
+          {
+            "text": "ジェル",
+            "children": []
+          },
+          {
+            "text": "チップDIY",
+            "children": []
+          },
+          {
+            "text": "セルフ",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "アクセサリー",
+        "children": [
+          {
+            "text": "ネックレス",
+            "children": []
+          },
+          {
+            "text": "イヤリング",
+            "children": []
+          },
+          {
+            "text": "パール",
+            "children": []
+          },
+          {
+            "text": "チェーン",
+            "children": []
+          },
+          {
+            "text": "ブレスレット",
+            "children": []
+          },
+          {
+            "text": "ハンドメイド",
+            "children": []
+          },
+          {
+            "text": "ピアス",
+            "children": []
+          },
+          {
+            "text": "ゴールド",
+            "children": []
+          },
+          {
+            "text": "シルバー",
+            "children": []
+          },
+          {
+            "text": "リング",
+            "children": []
+          },
+          {
+            "text": "収納",
+            "children": []
+          },
+          {
+            "text": "高見え",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "アイテム",
+        "children": [
+          {
+            "text": "バッグ",
+            "children": []
+          },
+          {
+            "text": "トート",
+            "children": []
+          },
+          {
+            "text": "ショルダー",
+            "children": []
+          },
+          {
+            "text": "ハンド",
+            "children": []
+          },
+          {
+            "text": "リュックサック",
+            "children": []
+          },
+          {
+            "text": "クラッチ",
+            "children": []
+          },
+          {
+            "text": "ボディ",
+            "children": []
+          },
+          {
+            "text": "サコッシュ",
+            "children": []
+          },
+          {
+            "text": "ウエストポーチ",
+            "children": []
+          },
+          {
+            "text": "小物",
+            "children": []
+          },
+          {
+            "text": "財布",
+            "children": []
+          },
+          {
+            "text": "キーケース",
+            "children": []
+          },
+          {
+            "text": "ベルト",
+            "children": []
+          },
+          {
+            "text": "靴",
+            "children": []
+          },
+          {
+            "text": "スニーカー",
+            "children": []
+          },
+          {
+            "text": "ローファー",
+            "children": []
+          },
+          {
+            "text": "ブーツ",
+            "children": []
+          },
+          {
+            "text": "サンダル",
+            "children": []
+          },
+          {
+            "text": "パンプス",
+            "children": []
+          },
+          {
+            "text": "ヒール",
+            "children": []
+          },
+          {
+            "text": "腕時計",
+            "children": []
+          },
+          {
+            "text": "スカーフ",
+            "children": []
+          },
+          {
+            "text": "サングラス",
+            "children": []
+          },
+          {
+            "text": "マフラー",
+            "children": []
+          },
+          {
+            "text": "帽子",
+            "children": []
+          },
+          {
+            "text": "手袋",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "text": "健康 ",
+    "children": [
+      {
+        "text": "フィットネス",
+        "children": [
+          {
+            "text": "筋トレ",
+            "children": []
+          },
+          {
+            "text": "有酸素運動",
+            "children": []
+          },
+          {
+            "text": "ランニング",
+            "children": []
+          },
+          {
+            "text": "ウォーキング",
+            "children": []
+          },
+          {
+            "text": "HIIT",
+            "children": []
+          },
+          {
+            "text": "スポーツ",
+            "children": []
+          },
+          {
+            "text": "アスリート",
+            "children": []
+          },
+          {
+            "text": "健康法",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "メンタルヘルス",
+        "children": [
+          {
+            "text": "睡眠音楽",
+            "children": []
+          },
+          {
+            "text": "リラクゼーション",
+            "children": []
+          },
+          {
+            "text": "習慣 改善",
+            "children": []
+          },
+          {
+            "text": "早寝早起き",
+            "children": []
+          },
+          {
+            "text": "禁煙",
+            "children": []
+          },
+          {
+            "text": "禁酒",
+            "children": []
+          },
+          {
+            "text": "健康ルーティン",
+            "children": []
+          },
+          {
+            "text": "朝活",
+            "children": []
+          },
+          {
+            "text": "夜活",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "食事　栄養",
+        "children": [
+          {
+            "text": "プロテイン",
+            "children": []
+          },
+          {
+            "text": "ダイエット",
+            "children": []
+          },
+          {
+            "text": "糖質制限",
+            "children": []
+          },
+          {
+            "text": "サプリメント",
+            "children": []
+          },
+          {
+            "text": "スーパーフード",
+            "children": []
+          },
+          {
+            "text": "チアシード",
+            "children": []
+          },
+          {
+            "text": "アサイー",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "ヨガ　ストレッチ",
+        "children": [
+          {
+            "text": "マインドフルネス",
+            "children": []
+          },
+          {
+            "text": "瞑想",
+            "children": []
+          },
+          {
+            "text": "ストレス解消",
+            "children": []
+          },
+          {
+            "text": "初心者",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "医療情報",
+        "children": [
+          {
+            "text": "健康診断",
+            "children": []
+          },
+          {
+            "text": "人間ドック",
+            "children": []
+          },
+          {
+            "text": "予防医療",
+            "children": []
+          },
+          {
+            "text": "ワクチン",
+            "children": []
+          },
+          {
+            "text": "検診",
+            "children": []
+          },
+          {
+            "text": "整形外科",
+            "children": []
+          },
+          {
+            "text": "リハビリ",
+            "children": []
+          },
+          {
+            "text": "歯科",
+            "children": []
+          },
+          {
+            "text": "口腔ケア",
+            "children": []
+          },
+          {
+            "text": "女性の健康",
+            "children": []
+          },
+          {
+            "text": "妊娠",
+            "children": []
+          },
+          {
+            "text": "更年期",
+            "children": []
+          },
+          {
+            "text": "PMS",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "改善",
+        "children": [
+          {
+            "text": "睡眠",
+            "children": []
+          },
+          {
+            "text": "姿勢",
+            "children": []
+          },
+          {
+            "text": "整体",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "text": "ライフスタイル",
+    "children": [
+      {
+        "text": "掃除",
+        "children": [
+          {
+            "text": "キッチン",
+            "children": []
+          },
+          {
+            "text": "お風呂",
+            "children": []
+          },
+          {
+            "text": "トイレ",
+            "children": []
+          },
+          {
+            "text": "窓　網戸",
+            "children": []
+          },
+          {
+            "text": "床　フローリング",
+            "children": []
+          },
+          {
+            "text": "ベランダ",
+            "children": []
+          },
+          {
+            "text": "大掃除",
+            "children": []
+          },
+          {
+            "text": "ルーティン",
+            "children": []
+          },
+          {
+            "text": "断捨離",
+            "children": []
+          },
+          {
+            "text": "コツ",
+            "children": []
+          },
+          {
+            "text": "掃除術",
+            "children": []
+          },
+          {
+            "text": "プロ技",
+            "children": []
+          },
+          {
+            "text": "グッズ",
+            "children": []
+          },
+          {
+            "text": "洗剤",
+            "children": []
+          },
+          {
+            "text": "重曹",
+            "children": []
+          },
+          {
+            "text": "クエン酸",
+            "children": []
+          },
+          {
+            "text": "セスキ炭酸ソーダ",
+            "children": []
+          },
+          {
+            "text": "掃除機",
+            "children": []
+          },
+          {
+            "text": "モップ",
+            "children": []
+          },
+          {
+            "text": "スチームクリーナー",
+            "children": []
+          },
+          {
+            "text": "100均",
+            "children": []
+          },
+          {
+            "text": "モチベーション",
+            "children": []
+          },
+          {
+            "text": "ルーティン",
+            "children": []
+          },
+          {
+            "text": "ミニマリスト",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "収納",
+        "children": [
+          {
+            "text": "キッチン",
+            "children": []
+          },
+          {
+            "text": "冷蔵庫",
+            "children": []
+          },
+          {
+            "text": "食器棚",
+            "children": []
+          },
+          {
+            "text": "洗面所",
+            "children": []
+          },
+          {
+            "text": "トイレ",
+            "children": []
+          },
+          {
+            "text": "クローゼット",
+            "children": []
+          },
+          {
+            "text": "押入れ",
+            "children": []
+          },
+          {
+            "text": "ベッド下",
+            "children": []
+          },
+          {
+            "text": "玄関",
+            "children": []
+          },
+          {
+            "text": "リビング",
+            "children": []
+          },
+          {
+            "text": "断捨離",
+            "children": []
+          },
+          {
+            "text": "ミニマリスト",
+            "children": []
+          },
+          {
+            "text": "アイデア",
+            "children": []
+          },
+          {
+            "text": "術",
+            "children": []
+          },
+          {
+            "text": "プロ",
+            "children": []
+          },
+          {
+            "text": "ルーティン",
+            "children": []
+          },
+          {
+            "text": "モチベーション",
+            "children": []
+          },
+          {
+            "text": "アイテム",
+            "children": []
+          },
+          {
+            "text": "グッズ",
+            "children": []
+          },
+          {
+            "text": "100均グッズ",
+            "children": []
+          },
+          {
+            "text": "無印良品",
+            "children": []
+          },
+          {
+            "text": "ニトリ",
+            "children": []
+          },
+          {
+            "text": "IKEA",
+            "children": []
+          },
+          {
+            "text": "ボックス",
+            "children": []
+          },
+          {
+            "text": "ケース",
+            "children": []
+          },
+          {
+            "text": "ハンガー",
+            "children": []
+          },
+          {
+            "text": "ファイルボックス",
+            "children": []
+          },
+          {
+            "text": "ワゴン",
+            "children": []
+          },
+          {
+            "text": "ラベル",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "Vlog",
+        "children": [
+          {
+            "text": "日常",
+            "children": []
+          },
+          {
+            "text": "朝のルーティン",
+            "children": []
+          },
+          {
+            "text": "夜のルーティン",
+            "children": []
+          },
+          {
+            "text": "一人暮らし",
+            "children": []
+          },
+          {
+            "text": "主婦",
+            "children": []
+          },
+          {
+            "text": "ミニマリスト",
+            "children": []
+          },
+          {
+            "text": "週末の過ごし方",
+            "children": []
+          },
+          {
+            "text": "旅行",
+            "children": []
+          },
+          {
+            "text": "海外旅行",
+            "children": []
+          },
+          {
+            "text": "国内旅行",
+            "children": []
+          },
+          {
+            "text": "一人旅",
+            "children": []
+          },
+          {
+            "text": "グルメ旅",
+            "children": []
+          },
+          {
+            "text": "ホテル宿泊",
+            "children": []
+          },
+          {
+            "text": "温泉旅行",
+            "children": []
+          },
+          {
+            "text": "仕事",
+            "children": []
+          },
+          {
+            "text": "社会人",
+            "children": []
+          },
+          {
+            "text": "会社員の一日",
+            "children": []
+          },
+          {
+            "text": "フリーランス",
+            "children": []
+          },
+          {
+            "text": "在宅ワーク",
+            "children": []
+          },
+          {
+            "text": "仕事ルーティン",
+            "children": []
+          },
+          {
+            "text": "仕事効率化",
+            "children": []
+          },
+          {
+            "text": "ワークライフバランス",
+            "children": []
+          },
+          {
+            "text": "勉強",
+            "children": []
+          },
+          {
+            "text": "受験勉強",
+            "children": []
+          },
+          {
+            "text": "大学生",
+            "children": []
+          },
+          {
+            "text": "読書",
+            "children": []
+          },
+          {
+            "text": "語学学習",
+            "children": []
+          },
+          {
+            "text": "資格勉強",
+            "children": []
+          },
+          {
+            "text": "勉強ルーティン",
+            "children": []
+          },
+          {
+            "text": "趣味",
+            "children": []
+          },
+          {
+            "text": "DIY ",
+            "children": []
+          },
+          {
+            "text": "ハンドメイド",
+            "children": []
+          },
+          {
+            "text": "絵描き",
+            "children": []
+          },
+          {
+            "text": "音楽制作",
+            "children": []
+          },
+          {
+            "text": "写真",
+            "children": []
+          },
+          {
+            "text": "クラフト",
+            "children": []
+          },
+          {
+            "text": "ライフスタイル",
+            "children": []
+          },
+          {
+            "text": "健康的な暮らし",
+            "children": []
+          },
+          {
+            "text": "料理",
+            "children": []
+          },
+          {
+            "text": "掃除",
+            "children": []
+          },
+          {
+            "text": "片付け",
+            "children": []
+          },
+          {
+            "text": "収納",
+            "children": []
+          },
+          {
+            "text": "家計管理",
+            "children": []
+          },
+          {
+            "text": "サステナブルライフ",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "ルーティン",
+        "children": [
+          {
+            "text": "朝",
+            "children": []
+          },
+          {
+            "text": "夜",
+            "children": []
+          },
+          {
+            "text": "休日",
+            "children": []
+          },
+          {
+            "text": "勉強",
+            "children": []
+          },
+          {
+            "text": "仕事",
+            "children": []
+          },
+          {
+            "text": "美容",
+            "children": []
+          },
+          {
+            "text": "健康",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "ルームツアー",
+        "children": [
+          {
+            "text": "一人暮らし",
+            "children": []
+          },
+          {
+            "text": "ファミリー",
+            "children": []
+          },
+          {
+            "text": "ミニマリスト",
+            "children": []
+          },
+          {
+            "text": "インテリア紹介",
+            "children": []
+          },
+          {
+            "text": "賃貸",
+            "children": []
+          },
+          {
+            "text": "一戸建て",
+            "children": []
+          },
+          {
+            "text": "ワンルーム",
+            "children": []
+          },
+          {
+            "text": "1K",
+            "children": []
+          },
+          {
+            "text": "1LDK",
+            "children": []
+          },
+          {
+            "text": "2LDK",
+            "children": []
+          },
+          {
+            "text": "マンション",
+            "children": []
+          },
+          {
+            "text": "新築",
+            "children": []
+          },
+          {
+            "text": "平屋",
+            "children": []
+          },
+          {
+            "text": "注文住宅",
+            "children": []
+          },
+          {
+            "text": "無印良品",
+            "children": []
+          },
+          {
+            "text": "IKEA",
+            "children": []
+          },
+          {
+            "text": "ニトリ",
+            "children": []
+          },
+          {
+            "text": "ミニマリスト",
+            "children": []
+          },
+          {
+            "text": "韓国風",
+            "children": []
+          },
+          {
+            "text": "北欧インテリア",
+            "children": []
+          },
+          {
+            "text": "ホテルライク",
+            "children": []
+          },
+          {
+            "text": "豪邸",
+            "children": []
+          },
+          {
+            "text": "リノベーション",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "ガーデニング　家庭菜園",
+        "children": [
+          {
+            "text": "ベランダ",
+            "children": []
+          },
+          {
+            "text": "室内観葉植物",
+            "children": []
+          },
+          {
+            "text": "花の育て方",
+            "children": []
+          },
+          {
+            "text": "野菜・果物栽培",
+            "children": []
+          },
+          {
+            "text": "DIY",
+            "children": []
+          },
+          {
+            "text": "テクニック",
+            "children": []
+          },
+          {
+            "text": "裏ワザ",
+            "children": []
+          },
+          {
+            "text": "寄せ植え",
+            "children": []
+          },
+          {
+            "text": "花壇づくり",
+            "children": []
+          },
+          {
+            "text": "多肉植物",
+            "children": []
+          },
+          {
+            "text": "観葉植物",
+            "children": []
+          },
+          {
+            "text": "バラの育て方",
+            "children": []
+          },
+          {
+            "text": "クレマチス",
+            "children": []
+          },
+          {
+            "text": "ビオラ寄せ植え",
+            "children": []
+          },
+          {
+            "text": "庭づくり",
+            "children": []
+          },
+          {
+            "text": "プランター栽培",
+            "children": []
+          },
+          {
+            "text": "トマト",
+            "children": []
+          },
+          {
+            "text": "きゅうり",
+            "children": []
+          },
+          {
+            "text": "いちご",
+            "children": []
+          },
+          {
+            "text": "夏野菜",
+            "children": []
+          },
+          {
+            "text": "秋冬野菜",
+            "children": []
+          },
+          {
+            "text": "初心者",
+            "children": []
+          },
+          {
+            "text": "自然農法",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "text": "動物 ",
+    "children": [
+      {
+        "text": "犬",
+        "children": [
+          {
+            "text": "おもしろ",
+            "children": []
+          },
+          {
+            "text": "癒し",
+            "children": []
+          },
+          {
+            "text": "救出",
+            "children": []
+          },
+          {
+            "text": "赤ちゃん",
+            "children": []
+          },
+          {
+            "text": "あるある",
+            "children": []
+          },
+          {
+            "text": "保護",
+            "children": []
+          },
+          {
+            "text": "鳴き声",
+            "children": []
+          },
+          {
+            "text": "ドキュメンタリー",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "猫",
+        "children": [
+          {
+            "text": "おもしろ",
+            "children": []
+          },
+          {
+            "text": "癒し",
+            "children": []
+          },
+          {
+            "text": "救出",
+            "children": []
+          },
+          {
+            "text": "赤ちゃん",
+            "children": []
+          },
+          {
+            "text": "あるある",
+            "children": []
+          },
+          {
+            "text": "保護",
+            "children": []
+          },
+          {
+            "text": "鳴き声",
+            "children": []
+          },
+          {
+            "text": "ドキュメンタリー",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "ハムスター",
+        "children": []
+      },
+      {
+        "text": "うさぎ",
+        "children": []
+      },
+      {
+        "text": "モルモット",
+        "children": []
+      },
+      {
+        "text": "インコ",
+        "children": []
+      },
+      {
+        "text": "小動物",
+        "children": [
+          {
+            "text": "ハリネズミ",
+            "children": []
+          },
+          {
+            "text": "フェレット",
+            "children": []
+          },
+          {
+            "text": "オウム",
+            "children": []
+          },
+          {
+            "text": "文鳥",
+            "children": []
+          },
+          {
+            "text": "モモンガ",
+            "children": []
+          },
+          {
+            "text": "ミーアキャット",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "中型動物",
+        "children": [
+          {
+            "text": "ミニブタ",
+            "children": []
+          },
+          {
+            "text": "ヤギ",
+            "children": []
+          },
+          {
+            "text": "ヒツジ",
+            "children": []
+          },
+          {
+            "text": "コアラ",
+            "children": []
+          },
+          {
+            "text": "カピバラ",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "大型動物",
+        "children": [
+          {
+            "text": "ライオン",
+            "children": []
+          },
+          {
+            "text": "トラ",
+            "children": []
+          },
+          {
+            "text": "ゾウ",
+            "children": []
+          },
+          {
+            "text": "ゴリラ",
+            "children": []
+          },
+          {
+            "text": "キリン",
+            "children": []
+          },
+          {
+            "text": "パンダ",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "爬虫類",
+        "children": [
+          {
+            "text": "トカゲ",
+            "children": []
+          },
+          {
+            "text": "カメレオン",
+            "children": []
+          },
+          {
+            "text": "ヘビ",
+            "children": []
+          },
+          {
+            "text": "カメ",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "海　水槽",
+        "children": [
+          {
+            "text": "ペンギン",
+            "children": []
+          },
+          {
+            "text": "フラミンゴ",
+            "children": []
+          },
+          {
+            "text": "イルカ",
+            "children": []
+          },
+          {
+            "text": "シャチ",
+            "children": []
+          },
+          {
+            "text": "クジラ",
+            "children": []
+          },
+          {
+            "text": "ジンベエザメ",
+            "children": []
+          },
+          {
+            "text": "サメ",
+            "children": []
+          },
+          {
+            "text": "マンボウ",
+            "children": []
+          },
+          {
+            "text": "エイ",
+            "children": []
+          },
+          {
+            "text": "タコ",
+            "children": []
+          },
+          {
+            "text": "クラゲ",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "珍しいペット",
+        "children": []
+      },
+      {
+        "text": "熱帯魚",
+        "children": []
+      },
+      {
+        "text": "動物園",
+        "children": []
+      },
+      {
+        "text": "水族館",
+        "children": []
+      },
+      {
+        "text": "沖縄美ら海水族館",
+        "children": []
+      },
+      {
+        "text": "海遊館",
+        "children": []
+      }
+    ]
+  },
+  {
+    "text": "創作",
+    "children": [
+      {
+        "text": " DIY ",
+        "children": [
+          {
+            "text": "木工",
+            "children": []
+          },
+          {
+            "text": "家具",
+            "children": []
+          },
+          {
+            "text": "金属加工",
+            "children": []
+          },
+          {
+            "text": "陶芸",
+            "children": []
+          },
+          {
+            "text": "焼き物",
+            "children": []
+          },
+          {
+            "text": "インテリア",
+            "children": []
+          },
+          {
+            "text": "ジュエリー　制作",
+            "children": []
+          },
+          {
+            "text": "電子工作",
+            "children": []
+          },
+          {
+            "text": "カードメイキング",
+            "children": []
+          },
+          {
+            "text": "フラワーアレンジメント",
+            "children": []
+          },
+          {
+            "text": "カスタムペイント",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "リペア",
+        "children": [
+          {
+            "text": "家具",
+            "children": []
+          },
+          {
+            "text": "木工",
+            "children": []
+          },
+          {
+            "text": "金属",
+            "children": []
+          },
+          {
+            "text": "革製品",
+            "children": []
+          },
+          {
+            "text": "衣類",
+            "children": []
+          },
+          {
+            "text": "靴",
+            "children": []
+          },
+          {
+            "text": "バッグ",
+            "children": []
+          },
+          {
+            "text": "時計",
+            "children": []
+          },
+          {
+            "text": "アクセサリー",
+            "children": []
+          },
+          {
+            "text": "電子機器",
+            "children": []
+          },
+          {
+            "text": "スマホ",
+            "children": []
+          },
+          {
+            "text": "PC",
+            "children": []
+          },
+          {
+            "text": "家電",
+            "children": []
+          },
+          {
+            "text": "自転車",
+            "children": []
+          },
+          {
+            "text": "バイク",
+            "children": []
+          },
+          {
+            "text": "車",
+            "children": []
+          },
+          {
+            "text": "楽器",
+            "children": []
+          },
+          {
+            "text": "カメラ",
+            "children": []
+          },
+          {
+            "text": "本",
+            "children": []
+          },
+          {
+            "text": "紙製品",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "イラスト ",
+        "children": [
+          {
+            "text": "アート",
+            "children": []
+          },
+          {
+            "text": "コンセプトアート",
+            "children": []
+          },
+          {
+            "text": "ファンアート",
+            "children": []
+          },
+          {
+            "text": "スピードペイント",
+            "children": []
+          },
+          {
+            "text": "ライブドローイング",
+            "children": []
+          },
+          {
+            "text": "デジタル",
+            "children": []
+          },
+          {
+            "text": "アナログ",
+            "children": []
+          },
+          {
+            "text": "水彩画",
+            "children": []
+          },
+          {
+            "text": "アクリル画",
+            "children": []
+          },
+          {
+            "text": "油絵風デジタル",
+            "children": []
+          },
+          {
+            "text": "線画",
+            "children": []
+          },
+          {
+            "text": "カラー",
+            "children": []
+          },
+          {
+            "text": "SNSヘッダー",
+            "children": []
+          },
+          {
+            "text": "LINEスタンプ",
+            "children": []
+          },
+          {
+            "text": "メイキング",
+            "children": []
+          },
+          {
+            "text": "プロクリエイト",
+            "children": []
+          },
+          {
+            "text": "Clip Studio Paint",
+            "children": []
+          },
+          {
+            "text": "リメイク",
+            "children": []
+          },
+          {
+            "text": "コラージュ",
+            "children": []
+          },
+          {
+            "text": "グリッチアート",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "キャラクター デザイン",
+        "children": [
+          {
+            "text": "オリジナル",
+            "children": []
+          },
+          {
+            "text": "立ち絵",
+            "children": []
+          },
+          {
+            "text": "三面図",
+            "children": []
+          },
+          {
+            "text": "正面",
+            "children": []
+          },
+          {
+            "text": "側面",
+            "children": []
+          },
+          {
+            "text": "背面",
+            "children": []
+          },
+          {
+            "text": "表情差分",
+            "children": []
+          },
+          {
+            "text": "ポーズ集",
+            "children": []
+          },
+          {
+            "text": "衣装",
+            "children": []
+          },
+          {
+            "text": "髪型",
+            "children": []
+          },
+          {
+            "text": "小物・アクセサリー",
+            "children": []
+          },
+          {
+            "text": "アニメ",
+            "children": []
+          },
+          {
+            "text": "ゲーム",
+            "children": []
+          },
+          {
+            "text": "マンガ",
+            "children": []
+          },
+          {
+            "text": "VTuber",
+            "children": []
+          },
+          {
+            "text": "SDキャラ",
+            "children": []
+          },
+          {
+            "text": "ミニキャラ",
+            "children": []
+          },
+          {
+            "text": "マスコット",
+            "children": []
+          },
+          {
+            "text": "ダークファンタジー",
+            "children": []
+          },
+          {
+            "text": "サイバーパンク",
+            "children": []
+          },
+          {
+            "text": "設定資料",
+            "children": []
+          },
+          {
+            "text": "コンセプトスケッチ",
+            "children": []
+          },
+          {
+            "text": "カラーバリエーション",
+            "children": []
+          },
+          {
+            "text": "リメイク",
+            "children": []
+          },
+          {
+            "text": "ターンアラウンド",
+            "children": []
+          },
+          {
+            "text": "回転図",
+            "children": []
+          },
+          {
+            "text": "モーション案",
+            "children": []
+          },
+          {
+            "text": "動きのラフ",
+            "children": []
+          },
+          {
+            "text": "ゲーム用アセット",
+            "children": []
+          },
+          {
+            "text": "アニメーション用シート",
+            "children": []
+          },
+          {
+            "text": "Live2D",
+            "children": []
+          },
+          {
+            "text": "コミッション",
+            "children": []
+          },
+          {
+            "text": "同人作品",
+            "children": []
+          },
+          {
+            "text": "企業",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "絵画",
+        "children": [
+          {
+            "text": "水彩画",
+            "children": []
+          },
+          {
+            "text": "アクリル画",
+            "children": []
+          },
+          {
+            "text": "油絵",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "漫画製作",
+        "children": [
+          {
+            "text": "少年",
+            "children": []
+          },
+          {
+            "text": "少女",
+            "children": []
+          },
+          {
+            "text": "青年",
+            "children": []
+          },
+          {
+            "text": "4コマ",
+            "children": []
+          },
+          {
+            "text": "Webtoon",
+            "children": []
+          },
+          {
+            "text": "同人",
+            "children": []
+          },
+          {
+            "text": "ギャグ",
+            "children": []
+          },
+          {
+            "text": "ホラー",
+            "children": []
+          },
+          {
+            "text": "ファンタジー",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "3DCG",
+        "children": [
+          {
+            "text": "Blender",
+            "children": []
+          },
+          {
+            "text": "Maya",
+            "children": []
+          },
+          {
+            "text": "3ds Max",
+            "children": []
+          },
+          {
+            "text": "Cinema 4D",
+            "children": []
+          },
+          {
+            "text": "ZBrush",
+            "children": []
+          },
+          {
+            "text": "Houdini",
+            "children": []
+          },
+          {
+            "text": "Substance Painter  Designer",
+            "children": []
+          },
+          {
+            "text": "モデリング",
+            "children": []
+          },
+          {
+            "text": "キャラクター",
+            "children": []
+          },
+          {
+            "text": "建築",
+            "children": []
+          },
+          {
+            "text": "プロダクト",
+            "children": []
+          },
+          {
+            "text": "スカルプティング",
+            "children": []
+          },
+          {
+            "text": "造形",
+            "children": []
+          },
+          {
+            "text": "テクスチャリング",
+            "children": []
+          },
+          {
+            "text": "質感付け",
+            "children": []
+          },
+          {
+            "text": "リギング",
+            "children": []
+          },
+          {
+            "text": "骨組み",
+            "children": []
+          },
+          {
+            "text": "動き付け",
+            "children": []
+          },
+          {
+            "text": "アニメーション",
+            "children": []
+          },
+          {
+            "text": "動きの付与",
+            "children": []
+          },
+          {
+            "text": "シミュレーション",
+            "children": []
+          },
+          {
+            "text": "布",
+            "children": []
+          },
+          {
+            "text": "水",
+            "children": []
+          },
+          {
+            "text": "煙",
+            "children": []
+          },
+          {
+            "text": "破壊",
+            "children": []
+          },
+          {
+            "text": "レンダリング",
+            "children": []
+          },
+          {
+            "text": "リアル",
+            "children": []
+          },
+          {
+            "text": "スタイライズ",
+            "children": []
+          },
+          {
+            "text": "キャラクターデザイン",
+            "children": []
+          },
+          {
+            "text": "背景・環境デザイン",
+            "children": []
+          },
+          {
+            "text": "建築ビジュアライゼーション",
+            "children": []
+          },
+          {
+            "text": "プロダクト",
+            "children": []
+          },
+          {
+            "text": "工業製品",
+            "children": []
+          },
+          {
+            "text": "家具",
+            "children": []
+          },
+          {
+            "text": "ゲーム用",
+            "children": []
+          },
+          {
+            "text": "VR　AR",
+            "children": []
+          },
+          {
+            "text": "VFX",
+            "children": []
+          },
+          {
+            "text": "フォトリアル",
+            "children": []
+          },
+          {
+            "text": "アニメ調",
+            "children": []
+          },
+          {
+            "text": "セルルック",
+            "children": []
+          },
+          {
+            "text": "ローポリ",
+            "children": []
+          },
+          {
+            "text": "シンプル表現",
+            "children": []
+          },
+          {
+            "text": "ハイポリ",
+            "children": []
+          },
+          {
+            "text": "高精細",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "デザイン ",
+        "children": [
+          {
+            "text": "書道",
+            "children": []
+          },
+          {
+            "text": "カリグラフィー",
+            "children": []
+          },
+          {
+            "text": "プロダクト",
+            "children": []
+          },
+          {
+            "text": "グラフィック",
+            "children": []
+          },
+          {
+            "text": "UI",
+            "children": []
+          },
+          {
+            "text": "UX",
+            "children": []
+          },
+          {
+            "text": "ロゴ",
+            "children": []
+          },
+          {
+            "text": "タイポグラフィ",
+            "children": []
+          },
+          {
+            "text": "パッケージ",
+            "children": []
+          },
+          {
+            "text": "ポスターアート",
+            "children": []
+          },
+          {
+            "text": "モーショングラフィックス",
+            "children": []
+          },
+          {
+            "text": "Web",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "写真 ",
+        "children": [
+          {
+            "text": "風景",
+            "children": []
+          },
+          {
+            "text": "ポートレート",
+            "children": []
+          },
+          {
+            "text": "自撮り",
+            "children": []
+          },
+          {
+            "text": "ストリートフォト",
+            "children": []
+          },
+          {
+            "text": "マクロ",
+            "children": []
+          },
+          {
+            "text": "夜景",
+            "children": []
+          },
+          {
+            "text": "動物",
+            "children": []
+          },
+          {
+            "text": "建築",
+            "children": []
+          },
+          {
+            "text": "モノクロ",
+            "children": []
+          },
+          {
+            "text": "ドキュメンタリー",
+            "children": []
+          },
+          {
+            "text": "コツ",
+            "children": []
+          },
+          {
+            "text": "撮り方",
+            "children": []
+          },
+          {
+            "text": "構図",
+            "children": []
+          },
+          {
+            "text": "アングル",
+            "children": []
+          },
+          {
+            "text": "ライティング",
+            "children": []
+          },
+          {
+            "text": "光の使い方",
+            "children": []
+          },
+          {
+            "text": "逆光テクニック",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "セルフィー 自撮り",
+        "children": [
+          {
+            "text": "コツ",
+            "children": []
+          },
+          {
+            "text": "盛れる",
+            "children": []
+          },
+          {
+            "text": "映え",
+            "children": []
+          },
+          {
+            "text": "ミラー",
+            "children": []
+          },
+          {
+            "text": "グループ",
+            "children": []
+          },
+          {
+            "text": "カップル",
+            "children": []
+          },
+          {
+            "text": "ペット",
+            "children": []
+          },
+          {
+            "text": "フード",
+            "children": []
+          },
+          {
+            "text": "トラベル",
+            "children": []
+          },
+          {
+            "text": "ストリート",
+            "children": []
+          },
+          {
+            "text": "ファッション",
+            "children": []
+          },
+          {
+            "text": "メイク",
+            "children": []
+          },
+          {
+            "text": "ジム",
+            "children": []
+          },
+          {
+            "text": "フィルター",
+            "children": []
+          },
+          {
+            "text": "ストーリー",
+            "children": []
+          },
+          {
+            "text": "夜景",
+            "children": []
+          },
+          {
+            "text": "イベント",
+            "children": []
+          },
+          {
+            "text": "撮り方",
+            "children": []
+          },
+          {
+            "text": "構図",
+            "children": []
+          },
+          {
+            "text": "アングル",
+            "children": []
+          },
+          {
+            "text": "ライティング",
+            "children": []
+          },
+          {
+            "text": "光の使い方",
+            "children": []
+          },
+          {
+            "text": "逆光テクニック",
+            "children": []
+          },
+          {
+            "text": "映えスポット",
+            "children": []
+          },
+          {
+            "text": "加工テクニック",
+            "children": []
+          },
+          {
+            "text": "フィルター活用",
+            "children": []
+          },
+          {
+            "text": "美肌加工",
+            "children": []
+          },
+          {
+            "text": "小顔加工",
+            "children": []
+          },
+          {
+            "text": "盛れる撮り方",
+            "children": []
+          },
+          {
+            "text": "SNS映え",
+            "children": []
+          },
+          {
+            "text": "スマホ撮影術",
+            "children": []
+          },
+          {
+            "text": "インスタ撮影術",
+            "children": []
+          },
+          {
+            "text": "TikTok撮影術",
+            "children": []
+          },
+          {
+            "text": "自撮り棒活用",
+            "children": []
+          },
+          {
+            "text": "三脚撮影",
+            "children": []
+          },
+          {
+            "text": "タイマー撮影",
+            "children": []
+          },
+          {
+            "text": "ミラー撮影",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "クラフト ",
+        "children": [
+          {
+            "text": "ガラス工芸",
+            "children": []
+          },
+          {
+            "text": "ハンドクラフト",
+            "children": []
+          },
+          {
+            "text": "レザー",
+            "children": []
+          },
+          {
+            "text": "レジン",
+            "children": []
+          },
+          {
+            "text": "ファブリック",
+            "children": []
+          },
+          {
+            "text": "手芸系",
+            "children": []
+          },
+          {
+            "text": "編み物",
+            "children": []
+          },
+          {
+            "text": "ニット",
+            "children": []
+          },
+          {
+            "text": "刺繍",
+            "children": []
+          },
+          {
+            "text": "ソーイング",
+            "children": []
+          },
+          {
+            "text": "洋裁",
+            "children": []
+          },
+          {
+            "text": "服作り",
+            "children": []
+          },
+          {
+            "text": "パッチワーク",
+            "children": []
+          },
+          {
+            "text": "キルト",
+            "children": []
+          },
+          {
+            "text": "染色",
+            "children": []
+          },
+          {
+            "text": "布アート",
+            "children": []
+          },
+          {
+            "text": "立体",
+            "children": []
+          },
+          {
+            "text": "造形",
+            "children": []
+          },
+          {
+            "text": "フィギュア",
+            "children": []
+          },
+          {
+            "text": "人形",
+            "children": []
+          },
+          {
+            "text": "ペーパークラフト",
+            "children": []
+          },
+          {
+            "text": "粘土アート",
+            "children": []
+          },
+          {
+            "text": "樹脂粘土",
+            "children": []
+          },
+          {
+            "text": "陶土",
+            "children": []
+          },
+          {
+            "text": "彫刻",
+            "children": []
+          },
+          {
+            "text": "ミニチュア",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "text": "映像作品",
+    "children": [
+      {
+        "text": "ホラー",
+        "children": [
+          {
+            "text": "リング",
+            "children": []
+          },
+          {
+            "text": "呪怨",
+            "children": []
+          },
+          {
+            "text": "スティーヴン・キング",
+            "children": []
+          },
+          {
+            "text": "伊藤潤二",
+            "children": []
+          },
+          {
+            "text": "まだ学校だよ",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "アナログホラー",
+        "children": [
+          {
+            "text": "Local58",
+            "children": []
+          },
+          {
+            "text": "The Mandela Catalogue",
+            "children": []
+          },
+          {
+            "text": "Gemini Home Entertainment",
+            "children": []
+          },
+          {
+            "text": "EASくん",
+            "children": []
+          },
+          {
+            "text": "百円玉",
+            "children": []
+          },
+          {
+            "text": "幻想列島放送",
+            "children": []
+          },
+          {
+            "text": "蜩",
+            "children": []
+          },
+          {
+            "text": "謎の映像・CMちゃんねる",
+            "children": []
+          },
+          {
+            "text": "遷移圏見聞録",
+            "children": []
+          },
+          {
+            "text": "この映像は正常です",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "モキュメンタリー",
+        "children": [
+          {
+            "text": "ブレア・ウィッチ・プロジェクト",
+            "children": []
+          },
+          {
+            "text": "パラノーマル・アクティビティ",
+            "children": []
+          },
+          {
+            "text": "ノロイ",
+            "children": []
+          },
+          {
+            "text": "奇譚師にんぎょ",
+            "children": []
+          },
+          {
+            "text": "フェイクドキュメンタリーQ",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "ドキュメンタリー",
+        "children": []
+      },
+      {
+        "text": "アートドキュメンタリー",
+        "children": []
+      },
+      {
+        "text": "自然映像",
+        "children": [
+          {
+            "text": "海",
+            "children": []
+          },
+          {
+            "text": "極地",
+            "children": []
+          },
+          {
+            "text": "山",
+            "children": []
+          },
+          {
+            "text": "川",
+            "children": []
+          },
+          {
+            "text": "滝",
+            "children": []
+          },
+          {
+            "text": "湖",
+            "children": []
+          },
+          {
+            "text": "森",
+            "children": []
+          },
+          {
+            "text": "砂漠",
+            "children": []
+          },
+          {
+            "text": "草原",
+            "children": []
+          },
+          {
+            "text": "氷河",
+            "children": []
+          },
+          {
+            "text": "洞窟",
+            "children": []
+          },
+          {
+            "text": "火山",
+            "children": []
+          },
+          {
+            "text": "島",
+            "children": []
+          },
+          {
+            "text": "湿地",
+            "children": []
+          },
+          {
+            "text": "ジャングル",
+            "children": []
+          },
+          {
+            "text": "海岸",
+            "children": []
+          },
+          {
+            "text": "空",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "工場",
+        "children": [
+          {
+            "text": "グリコ",
+            "children": []
+          },
+          {
+            "text": "カルビー",
+            "children": []
+          },
+          {
+            "text": "山崎製パン",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "クレイアニメ",
+        "children": [
+          {
+            "text": "ウォレスとグルミット",
+            "children": []
+          },
+          {
+            "text": "ひつじのショーン",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "ストップモーションアニメ",
+        "children": [
+          {
+            "text": "コラライン",
+            "children": []
+          },
+          {
+            "text": "ナイトメアー・ビフォア・クリスマス",
+            "children": []
+          },
+          {
+            "text": "ヤン・シュヴァンクマイエル",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "パペットアニメ",
+        "children": [
+          {
+            "text": "スンスン",
+            "children": []
+          },
+          {
+            "text": "セサミストリート",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "演劇",
+        "children": []
+      },
+      {
+        "text": "実験的",
+        "children": [
+          {
+            "text": "スタン・ブラッケージ",
+            "children": []
+          },
+          {
+            "text": "マヤ・デレン",
+            "children": []
+          },
+          {
+            "text": "ジャン＝リュック・ゴダール",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "コア",
+        "children": [
+          {
+            "text": "Dreamcore",
+            "children": []
+          },
+          {
+            "text": "Webcore",
+            "children": []
+          },
+          {
+            "text": "Kidcore",
+            "children": []
+          },
+          {
+            "text": "Cloudcore",
+            "children": []
+          },
+          {
+            "text": "Naturecore",
+            "children": []
+          },
+          {
+            "text": "Darkcore",
+            "children": []
+          },
+          {
+            "text": "Horrorcore",
+            "children": []
+          },
+          {
+            "text": "Gothcore",
+            "children": []
+          },
+          {
+            "text": "Cybercore",
+            "children": []
+          },
+          {
+            "text": "Bubblecore",
+            "children": []
+          },
+          {
+            "text": "Traumacore",
+            "children": []
+          },
+          {
+            "text": "Liminalcore",
+            "children": []
+          },
+          {
+            "text": "Emocore",
+            "children": []
+          },
+          {
+            "text": "Fairycore",
+            "children": []
+          },
+          {
+            "text": "Clowncore",
+            "children": []
+          },
+          {
+            "text": "Pixelcore",
+            "children": []
+          },
+          {
+            "text": "Analogcore",
+            "children": []
+          },
+          {
+            "text": "Surrealcore",
+            "children": []
+          },
+          {
+            "text": "Visualcore",
+            "children": []
+          },
+          {
+            "text": "Healingcore",
+            "children": []
+          },
+          {
+            "text": "Cottagecore",
+            "children": []
+          },
+          {
+            "text": "Vaporwave",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "アートフィルム",
+        "children": []
+      },
+      {
+        "text": "ビジュアルポエトリー",
+        "children": []
+      },
+      {
+        "text": "インスタレーション",
+        "children": []
+      },
+      {
+        "text": "シュール",
+        "children": []
+      },
+      {
+        "text": "サイケデリック",
+        "children": []
+      }
+    ]
+  },
+  {
+    "text": "音声作品",
+    "children": [
+      {
+        "text": "朗読",
+        "children": [
+          {
+            "text": "小説",
+            "children": []
+          },
+          {
+            "text": "青空文庫",
+            "children": []
+          },
+          {
+            "text": "詩",
+            "children": []
+          },
+          {
+            "text": "童話",
+            "children": []
+          },
+          {
+            "text": "読み聞かせ",
+            "children": []
+          },
+          {
+            "text": "怪談",
+            "children": []
+          },
+          {
+            "text": "詩",
+            "children": []
+          },
+          {
+            "text": "民話",
+            "children": []
+          },
+          {
+            "text": "声劇",
+            "children": []
+          },
+          {
+            "text": "歴史",
+            "children": []
+          },
+          {
+            "text": "ラジオドラマ",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "怪談",
+        "children": []
+      },
+      {
+        "text": "ASMR",
+        "children": [
+          {
+            "text": "咀嚼音",
+            "children": []
+          },
+          {
+            "text": "耳かき",
+            "children": []
+          },
+          {
+            "text": "タッピング",
+            "children": []
+          },
+          {
+            "text": "囁き",
+            "children": []
+          },
+          {
+            "text": "睡眠導入",
+            "children": []
+          },
+          {
+            "text": "勉強用",
+            "children": []
+          },
+          {
+            "text": "リラクゼーション",
+            "children": []
+          },
+          {
+            "text": "ロールプレイ",
+            "children": []
+          },
+          {
+            "text": "美容院",
+            "children": []
+          },
+          {
+            "text": "診察",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "ポッドキャスト",
+        "children": [
+          {
+            "text": "雑談",
+            "children": []
+          },
+          {
+            "text": "インタビュー",
+            "children": []
+          },
+          {
+            "text": "ラジオ",
+            "children": []
+          },
+          {
+            "text": "ラジオ風",
+            "children": []
+          },
+          {
+            "text": "哲学",
+            "children": []
+          },
+          {
+            "text": "思想",
+            "children": []
+          },
+          {
+            "text": "勉強",
+            "children": []
+          },
+          {
+            "text": "学習",
+            "children": []
+          },
+          {
+            "text": "ビジネス",
+            "children": []
+          },
+          {
+            "text": "自己啓発",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "環境音",
+        "children": [
+          {
+            "text": "AI",
+            "children": []
+          },
+          {
+            "text": "雨",
+            "children": []
+          },
+          {
+            "text": "雷",
+            "children": []
+          },
+          {
+            "text": "波",
+            "children": []
+          },
+          {
+            "text": "海",
+            "children": []
+          },
+          {
+            "text": "浜辺",
+            "children": []
+          },
+          {
+            "text": "川のせせらぎ",
+            "children": []
+          },
+          {
+            "text": "森林",
+            "children": []
+          },
+          {
+            "text": "鳥のさえずり",
+            "children": []
+          },
+          {
+            "text": "風",
+            "children": []
+          },
+          {
+            "text": "強風",
+            "children": []
+          },
+          {
+            "text": "そよ風",
+            "children": []
+          },
+          {
+            "text": "雪の降る音",
+            "children": []
+          },
+          {
+            "text": "虫の声",
+            "children": []
+          },
+          {
+            "text": "夏の夜",
+            "children": []
+          },
+          {
+            "text": "秋の虫",
+            "children": []
+          },
+          {
+            "text": "都市",
+            "children": []
+          },
+          {
+            "text": "生活音",
+            "children": []
+          },
+          {
+            "text": "街の雑踏",
+            "children": []
+          },
+          {
+            "text": "カフェ",
+            "children": []
+          },
+          {
+            "text": "図書館",
+            "children": []
+          },
+          {
+            "text": "電車",
+            "children": []
+          },
+          {
+            "text": "バスの車内",
+            "children": []
+          },
+          {
+            "text": "空港",
+            "children": []
+          },
+          {
+            "text": "飛行機",
+            "children": []
+          },
+          {
+            "text": "工事現場",
+            "children": []
+          },
+          {
+            "text": "ホワイトノイズ",
+            "children": []
+          },
+          {
+            "text": "ピンクノイズ",
+            "children": []
+          },
+          {
+            "text": "ブラウンノイズ",
+            "children": []
+          },
+          {
+            "text": "扇風機",
+            "children": []
+          },
+          {
+            "text": "エアコン",
+            "children": []
+          },
+          {
+            "text": "心音",
+            "children": []
+          },
+          {
+            "text": "胎内音",
+            "children": []
+          },
+          {
+            "text": "タイピング音",
+            "children": []
+          },
+          {
+            "text": "ペン書き音",
+            "children": []
+          },
+          {
+            "text": "机の上",
+            "children": []
+          },
+          {
+            "text": "教室",
+            "children": []
+          },
+          {
+            "text": "宇宙",
+            "children": []
+          },
+          {
+            "text": "疑似環境音",
+            "children": []
+          },
+          {
+            "text": "水中音",
+            "children": []
+          },
+          {
+            "text": "洞窟",
+            "children": []
+          },
+          {
+            "text": "ファンタジー",
+            "children": []
+          },
+          {
+            "text": "魔法の森",
+            "children": []
+          },
+          {
+            "text": "異世界",
+            "children": []
+          },
+          {
+            "text": "工場音",
+            "children": []
+          },
+          {
+            "text": "機械音",
+            "children": []
+          },
+          {
+            "text": "レトロ",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "text": "紹介・解説",
+    "children": [
+      {
+        "text": "ホラー",
+        "children": []
+      },
+      {
+        "text": "オカルト",
+        "children": [
+          {
+            "text": "オカルト先生",
+            "children": []
+          },
+          {
+            "text": "イナクロ怪集部",
+            "children": []
+          },
+          {
+            "text": "theつぶろ",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "都市伝説",
+        "children": []
+      },
+      {
+        "text": "SCP",
+        "children": []
+      },
+      {
+        "text": "実録",
+        "children": []
+      },
+      {
+        "text": "事件",
+        "children": []
+      },
+      {
+        "text": "事故",
+        "children": []
+      }
+    ]
+  },
+  {
+    "text": "AI",
+    "children": [
+      {
+        "text": "AI ASMR",
+        "children": [
+          {
+            "text": "ガラス 切る",
+            "children": []
+          },
+          {
+            "text": "氷 切る",
+            "children": []
+          },
+          {
+            "text": "石鹸 削る",
+            "children": []
+          },
+          {
+            "text": "スライム 潰す",
+            "children": []
+          },
+          {
+            "text": "キネティックサンド 崩す",
+            "children": []
+          },
+          {
+            "text": "発泡スチロール 削る",
+            "children": []
+          },
+          {
+            "text": "ジェル 切る",
+            "children": []
+          },
+          {
+            "text": "ゼリー 切る",
+            "children": []
+          },
+          {
+            "text": "ケーキ 切る",
+            "children": []
+          },
+          {
+            "text": "フルーツ 切る",
+            "children": []
+          },
+          {
+            "text": "野菜 切る",
+            "children": []
+          },
+          {
+            "text": "粘土 切る",
+            "children": []
+          },
+          {
+            "text": "パック 崩す",
+            "children": []
+          },
+          {
+            "text": "ビーズ 砕く",
+            "children": []
+          },
+          {
+            "text": "宝石 砕く",
+            "children": []
+          },
+          {
+            "text": "透明 素材",
+            "children": []
+          },
+          {
+            "text": "光る 素材",
+            "children": []
+          },
+          {
+            "text": "ガラス",
+            "children": []
+          },
+          {
+            "text": "スイーツ",
+            "children": []
+          },
+          {
+            "text": "食べ物",
+            "children": []
+          },
+          {
+            "text": "異世界 素材",
+            "children": []
+          },
+          {
+            "text": "幻想 素材",
+            "children": []
+          },
+          {
+            "text": "ビジュアル",
+            "children": []
+          },
+          {
+            "text": "視覚",
+            "children": []
+          },
+          {
+            "text": "切る",
+            "children": []
+          },
+          {
+            "text": "削る",
+            "children": []
+          },
+          {
+            "text": "潰す",
+            "children": []
+          },
+          {
+            "text": "崩す",
+            "children": []
+          },
+          {
+            "text": "砕く",
+            "children": []
+          },
+          {
+            "text": "ボツ集",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "AI ドリームスケープ",
+        "children": [
+          {
+            "text": "雲のベッド",
+            "children": []
+          },
+          {
+            "text": "星の海",
+            "children": []
+          },
+          {
+            "text": "虹色の空",
+            "children": []
+          },
+          {
+            "text": "光る森",
+            "children": []
+          },
+          {
+            "text": "宇宙の図書館",
+            "children": []
+          },
+          {
+            "text": "夢の階段",
+            "children": []
+          },
+          {
+            "text": "空中都市",
+            "children": []
+          },
+          {
+            "text": "幻想の庭",
+            "children": []
+          },
+          {
+            "text": "月光の湖",
+            "children": []
+          },
+          {
+            "text": "浮遊する島",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "AI コンセプチュアル",
+        "children": [
+          {
+            "text": "無限の階段",
+            "children": []
+          },
+          {
+            "text": "終わりのない廊下",
+            "children": []
+          },
+          {
+            "text": "鏡の迷宮",
+            "children": []
+          },
+          {
+            "text": "光と影の立方体",
+            "children": []
+          },
+          {
+            "text": "時間の砂時計",
+            "children": []
+          },
+          {
+            "text": "無重力の部屋",
+            "children": []
+          },
+          {
+            "text": "幾何学模様の世界",
+            "children": []
+          },
+          {
+            "text": "透明な球体空間",
+            "children": []
+          },
+          {
+            "text": "崩れゆく都市",
+            "children": []
+          },
+          {
+            "text": "色の渦",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "AI ビジュアルファンタジー",
+        "children": [
+          {
+            "text": "魔法の森",
+            "children": []
+          },
+          {
+            "text": "クリスタルの洞窟",
+            "children": []
+          },
+          {
+            "text": "竜の山",
+            "children": []
+          },
+          {
+            "text": "光る湖",
+            "children": []
+          },
+          {
+            "text": "妖精の庭",
+            "children": []
+          },
+          {
+            "text": "幻想の街並み",
+            "children": []
+          },
+          {
+            "text": "虹色の滝",
+            "children": []
+          },
+          {
+            "text": "星降る砂漠",
+            "children": []
+          },
+          {
+            "text": "異世界の城",
+            "children": []
+          },
+          {
+            "text": "精霊の森",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "AI ヒーリング",
+        "children": [
+          {
+            "text": "静かな森",
+            "children": []
+          },
+          {
+            "text": "波打つ海岸",
+            "children": []
+          },
+          {
+            "text": "朝日の草原",
+            "children": []
+          },
+          {
+            "text": "雨上がりの湖",
+            "children": []
+          },
+          {
+            "text": "花畑",
+            "children": []
+          },
+          {
+            "text": "小川のせせらぎ",
+            "children": []
+          },
+          {
+            "text": "雪山",
+            "children": []
+          },
+          {
+            "text": "夕暮れの浜辺",
+            "children": []
+          },
+          {
+            "text": "星空の温泉",
+            "children": []
+          },
+          {
+            "text": "癒しの庭園",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "text": "学び ",
+    "children": [
+      {
+        "text": "雑学",
+        "children": [
+          {
+            "text": "有隣堂しか知らない世界",
+            "children": []
+          },
+          {
+            "text": "トリビア",
+            "children": []
+          },
+          {
+            "text": "豆知識",
+            "children": []
+          },
+          {
+            "text": "世界の不思議",
+            "children": []
+          },
+          {
+            "text": "雑学クイズ",
+            "children": []
+          },
+          {
+            "text": "生活の知恵",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "語学 ",
+        "children": [
+          {
+            "text": "英語学習",
+            "children": []
+          },
+          {
+            "text": "TOEIC",
+            "children": []
+          },
+          {
+            "text": "英会話",
+            "children": []
+          },
+          {
+            "text": "中国語",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "歴史 ",
+        "children": [
+          {
+            "text": "世界史",
+            "children": []
+          },
+          {
+            "text": "日本史",
+            "children": []
+          },
+          {
+            "text": "戦国時代",
+            "children": []
+          },
+          {
+            "text": "古代文明",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "哲学",
+        "children": [
+          {
+            "text": "ソクラテス",
+            "children": []
+          },
+          {
+            "text": "ニーチェ",
+            "children": []
+          },
+          {
+            "text": "カント",
+            "children": []
+          },
+          {
+            "text": "仏教哲学",
+            "children": []
+          },
+          {
+            "text": "西洋哲学史",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "思想 ",
+        "children": [
+          {
+            "text": "マルクス主義",
+            "children": []
+          },
+          {
+            "text": "リベラリズム",
+            "children": []
+          },
+          {
+            "text": "保守思想",
+            "children": []
+          },
+          {
+            "text": "宗教思想",
+            "children": []
+          },
+          {
+            "text": "現代思想",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "科学",
+        "children": [
+          {
+            "text": "宇宙",
+            "children": []
+          },
+          {
+            "text": "AI",
+            "children": []
+          },
+          {
+            "text": "ロボット",
+            "children": []
+          },
+          {
+            "text": "ナノテクノロジー",
+            "children": []
+          },
+          {
+            "text": "環境科学",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "物理",
+        "children": [
+          {
+            "text": "量子力学",
+            "children": []
+          },
+          {
+            "text": "相対性理論",
+            "children": []
+          },
+          {
+            "text": "宇宙物理",
+            "children": []
+          },
+          {
+            "text": "力学",
+            "children": []
+          },
+          {
+            "text": "素粒子",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "化学",
+        "children": [
+          {
+            "text": "有機化学",
+            "children": []
+          },
+          {
+            "text": "無機化学",
+            "children": []
+          },
+          {
+            "text": "化学反応",
+            "children": []
+          },
+          {
+            "text": "材料化学",
+            "children": []
+          },
+          {
+            "text": "分子構造",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "生物 ",
+        "children": [
+          {
+            "text": "進化論",
+            "children": []
+          },
+          {
+            "text": "遺伝子",
+            "children": []
+          },
+          {
+            "text": "生態系",
+            "children": []
+          },
+          {
+            "text": "動物行動",
+            "children": []
+          },
+          {
+            "text": "微生物",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "数学 ",
+        "children": [
+          {
+            "text": "微分積分",
+            "children": []
+          },
+          {
+            "text": "線形代数",
+            "children": []
+          },
+          {
+            "text": "統計学",
+            "children": []
+          },
+          {
+            "text": "数論",
+            "children": []
+          },
+          {
+            "text": "幾何学",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "IT　プログラミング ",
+        "children": [
+          {
+            "text": "Python",
+            "children": []
+          },
+          {
+            "text": "JavaScript",
+            "children": []
+          },
+          {
+            "text": "Web開発",
+            "children": []
+          },
+          {
+            "text": "AIプログラミング",
+            "children": []
+          },
+          {
+            "text": "セキュリティ",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "心理学 ",
+        "children": [
+          {
+            "text": "認知心理学",
+            "children": []
+          },
+          {
+            "text": "発達心理学",
+            "children": []
+          },
+          {
+            "text": "臨床心理学",
+            "children": []
+          },
+          {
+            "text": "社会心理学",
+            "children": []
+          },
+          {
+            "text": "心理テスト",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "読書",
+        "children": []
+      },
+      {
+        "text": "要約 ",
+        "children": [
+          {
+            "text": "ビジネス書要約",
+            "children": []
+          },
+          {
+            "text": "小説解説",
+            "children": []
+          },
+          {
+            "text": "名著紹介",
+            "children": []
+          },
+          {
+            "text": "読書術",
+            "children": []
+          },
+          {
+            "text": "書評",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "資格勉強 ",
+        "children": [
+          {
+            "text": "英検",
+            "children": []
+          },
+          {
+            "text": "TOEIC",
+            "children": []
+          },
+          {
+            "text": "簿記",
+            "children": []
+          },
+          {
+            "text": "FP（ファイナンシャルプランナー）",
+            "children": []
+          },
+          {
+            "text": "ITパスポート",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "ビジネス 仕事術 ",
+        "children": [
+          {
+            "text": "タイムマネジメント",
+            "children": []
+          },
+          {
+            "text": "プレゼン術",
+            "children": []
+          },
+          {
+            "text": "リーダーシップ",
+            "children": []
+          },
+          {
+            "text": "交渉術",
+            "children": []
+          },
+          {
+            "text": "マーケティング",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "ニュース 時事 ",
+        "children": [
+          {
+            "text": "国際ニュース",
+            "children": []
+          },
+          {
+            "text": "政治",
+            "children": []
+          },
+          {
+            "text": "経済",
+            "children": []
+          },
+          {
+            "text": "社会問題",
+            "children": []
+          },
+          {
+            "text": "テクノロジー動向",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "テクノロジー",
+        "children": [
+          {
+            "text": "AI",
+            "children": []
+          },
+          {
+            "text": "IoT",
+            "children": []
+          },
+          {
+            "text": "ブロックチェーン",
+            "children": []
+          },
+          {
+            "text": "ロボティクス",
+            "children": []
+          },
+          {
+            "text": "宇宙開発",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "ガジェット ",
+        "children": [
+          {
+            "text": "スマートフォン",
+            "children": []
+          },
+          {
+            "text": "タブレット",
+            "children": []
+          },
+          {
+            "text": "ウェアラブル",
+            "children": []
+          },
+          {
+            "text": "PC周辺機器",
+            "children": []
+          },
+          {
+            "text": "ドローン",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]

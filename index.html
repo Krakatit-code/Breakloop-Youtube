@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>YouTubeが同じ動画ばかりおすすめしてくるの嫌だ</title>
+
+  <style>
+    body { font-family: sans-serif; padding: 20px; background: #f9f9f9; }
+    h2, h3 { margin-bottom: 10px; }
+
+    .option-label {
+      display: inline-block;
+      margin: 4px;
+      padding: 6px 12px;
+      border: 1px solid #ccc;
+      border-radius: 6px;
+      background: #eee;
+      cursor: pointer;
+      user-select: none;
+    }
+    .selected {
+      background: #F8A7A0 !important;
+      color: #fff !important;
+    }
+
+    .blue-btn, .youtube-btn, .google-btn {
+      padding: 10px 20px; border: none; border-radius: 8px;
+      cursor: pointer; font-size: 20px;
+    }
+    .blue-btn { background-color: #1e73ff; color: white; }
+    .youtube-btn { background-color: #cc0000; color: white; }
+    .google-btn { background-color: #2e7d32; color: white; }
+
+    .noise-btn {
+      background: black; color: white;
+      padding: 8px 16px; border-radius: 6px;
+      border: none; cursor: pointer; font-size: 16px;
+    }
+    .noise-clear-btn {
+      background: white; color: black; border: 1px solid #333;
+      padding: 8px 16px; border-radius: 6px;
+      cursor: pointer; font-size: 16px;
+    }
+
+    .section { margin-bottom: 25px; }
+  </style>
+</head>
+
+<body>
+  <h2>YouTubeが同じ動画ばかりおすすめしてくるの嫌だ</h2>
+
+  <!-- カテゴリ -->
+  <div class="section">
+    <h3>●カテゴリ</h3>
+    <div id="categoryOptions"></div>
+  </div>
+
+  <!-- ジャンル -->
+  <div class="section">
+    <h3>●ジャンル（選択後、人気ワードがランダム追加されます）</h3>
+    <div id="genreOptions"></div>
+  </div>
+
+  <!-- 検索語プレビュー -->
+  <div class="section">
+    <h3>●検索語の確認</h3>
+    <button id="resetKeywordsBtn" class="blue-btn">🔄 ワードをガチャ</button>
+    <label>
+      <input type="checkbox" id="noRandomWord">
+      ガチャワードを使わずジャンル名だけで検索する
+    </label>
+  <div>  </div>
+    <div id="searchPreview"
+      style="font-weight:bold; margin:10px 0; font-size:23px;">
+      【検索語がまだ選ばれていません】
+    </div>
+
+   
+
+  <!-- 検索 -->
+  <div class="section">
+    <button class="youtube-btn" onclick="search('youtube')">▶ YouTubeで検索</button>
+    <button class="google-btn" onclick="search('google')">🔍 Googleで検索</button>
+  </div>
+Google動画タブ検索は、除外精度が高くノイズ少なめ
+
+  <!-- 特徴 -->
+  <div class="section">
+    <h3>●特徴（複数選択可）</h3>
+    <div id="featureOptions"></div>
+    <input type="text" id="featureInput" placeholder="カンマ区切りで自由入力" style="margin-top:8px; width:250px;">
+  </div>
+
+  <!-- 除外 -->
+  <div class="section">
+    <h3>●除外ワード ※「子供向け」等は複数の除外ワードが追加されます</h3>
+    <div id="excludeOptions"></div>
+    <input type="text" id="excludeInput" placeholder="カンマ区切りで自由入力" style="margin-top:8px; width:250px;">
+  </div>
+
+ <!-- ★ ノイズ生成・消去ボタン（重要！） -->
+    <div style="margin-top:10px;">
+<h3>●より一層適当にしたい時</h3>
+      <button class="noise-btn" onclick="generateNoise()">ノイズ生成</button>
+      <button class="noise-clear-btn" onclick="clearNoise()">ノイズ消去</button>
+
+    </div>
+  </div>適当なひらがなが追加されます。
+  <script src="script.js"></script>
+</body>
+</html>
